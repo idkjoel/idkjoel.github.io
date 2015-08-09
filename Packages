@@ -1,15 +1,15 @@
 Package: com.idkjoel.storm
-Version: 0.1.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.storm_0.1.1_iphoneos-arm.deb
+Filename: ./debs//com.idkjoel.storm_0.2_iphoneos-arm.deb
 Size: 145548
-MD5sum: 73834035eb4e226199c9759ccb146204
-SHA1: 3e325b79a5a41e993f42f8ae66dba703c62fd1e1
-SHA256: bd4aae5e86b28ec685aeed5ca0a056180b8800b9f1cec906e6c0b27a71e5ea38
+MD5sum: 64acb8e3d1dbff5deddb9fa84222883b
+SHA1: e5c79c0a08abbf31f6e938c8faa8095fb81ae024
+SHA256: 08a86f726dcf5b00dbfc2de43a55756d76e03c327673d394a1e5d3622b454f22
 Section: Themes
-Description: still in early testing, storm is an icon theme applied through winterboard.
+Description: still in early testing, pluto is an icon theme applied through winterboard.
 Author: joel johnson <joel.schellenberger@gmail.com>
-Name: Storm
+Name: pluto
 
