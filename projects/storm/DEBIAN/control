@@ -1,9 +1,9 @@
 Package: com.idkjoel.storm
 Name: Storm
 Depends: winterboard
-Version: 0.1
+Version: 0.1.1
 Architecture: iphoneos-arm
-Description: storm is a stupid name for a theme with bright colours on dark backgrounds but i couldn't think of anything else on the spot.
-Maintainer: joel <joel.schellenberger@gmail.com>
-Author: joel <joel.schellenberger@gmail.com>
+Description: still in early testing, storm is an icon theme applied through winterboard.
+Maintainer: joel johnson <joel.schellenberger@gmail.com>
+Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
