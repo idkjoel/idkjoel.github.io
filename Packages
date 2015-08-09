@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.storm_0.1.1_iphoneos-arm.deb
-Size: 41848
-MD5sum: 825def71a88e2ec50f284b5444683b4d
-SHA1: 215a28afb12741e59bd428aa30b77f2d21136a06
-SHA256: 1dd209dc204b6fc3f32954e46120c2081630fa9a9c594071d905c2edccc9940c
+Size: 145548
+MD5sum: 73834035eb4e226199c9759ccb146204
+SHA1: 3e325b79a5a41e993f42f8ae66dba703c62fd1e1
+SHA256: bd4aae5e86b28ec685aeed5ca0a056180b8800b9f1cec906e6c0b27a71e5ea38
 Section: Themes
 Description: still in early testing, storm is an icon theme applied through winterboard.
 Author: joel johnson <joel.schellenberger@gmail.com>

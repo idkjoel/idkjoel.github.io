@@ -1,9 +1,9 @@
 Package: com.idkjoel.storm
-Name: Storm
+Name: pluto
 Depends: winterboard
-Version: 0.1.1
+Version: 0.2
 Architecture: iphoneos-arm
-Description: still in early testing, storm is an icon theme applied through winterboard.
+Description: still in early testing, pluto is an icon theme applied through winterboard.
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
