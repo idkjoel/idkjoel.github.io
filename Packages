@@ -1,15 +1,15 @@
 Package: com.idkjoel.storm
-Version: 0.1
+Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: joel <joel.schellenberger@gmail.com>
+Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.storm_0.1_iphoneos-arm.deb
-Size: 6518
-MD5sum: b991720a90d2c512825ba053b2b75ebb
-SHA1: 9070966ac0235aa194de8732553603da1b2e8fe4
-SHA256: c8b1c562ac0515292a01a3d0580464a04e4c49c582ecc8bcf435d20fb13e719c
+Filename: ./debs//com.idkjoel.storm_0.1.1_iphoneos-arm.deb
+Size: 41848
+MD5sum: 825def71a88e2ec50f284b5444683b4d
+SHA1: 215a28afb12741e59bd428aa30b77f2d21136a06
+SHA256: 1dd209dc204b6fc3f32954e46120c2081630fa9a9c594071d905c2edccc9940c
 Section: Themes
-Description: storm is a stupid name for a theme with bright colours on dark backgrounds but i couldn't think of anything else on the spot.
-Author: joel <joel.schellenberger@gmail.com>
+Description: still in early testing, storm is an icon theme applied through winterboard.
+Author: joel johnson <joel.schellenberger@gmail.com>
 Name: Storm
 
