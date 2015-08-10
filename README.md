@@ -1,2 +1,2 @@
 # idkjoel.github.io
-Beta Repo
+A simple beta repo, where projects struggle through their early existence.

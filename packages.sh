@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/storm debs
+dpkg-deb -bZgzip projects/pluto debs
