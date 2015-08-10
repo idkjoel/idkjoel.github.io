@@ -1,13 +1,13 @@
 Package: com.idkjoel.pluto
-Version: 0.3
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.pluto_0.3_iphoneos-arm.deb
-Size: 356554
-MD5sum: 54b2a2e6f19fafc7ef33acd4db044578
-SHA1: 24ae54e5d0b3f677e04babc52c14c1ca660fdce3
-SHA256: 2b769c44748071dac863aba545f3588bcc0614fe1c6e2c40150ba3feeda33a5d
+Filename: ./debs//com.idkjoel.pluto_0.4_iphoneos-arm.deb
+Size: 366442
+MD5sum: 3833712c398a2adb7f7f9b8b2798415b
+SHA1: 167453636d6bc2383773280b19ebb325ed447d8c
+SHA256: 557fb16de57bc5231c331e0c7cabf948da0dab103b7b179bba74a99d0338449f
 Section: Themes
 Description: still in early testing, pluto is an icon theme applied through winterboard.
 Author: joel johnson <joel.schellenberger@gmail.com>
