@@ -1,7 +1,7 @@
 Package: com.idkjoel.pluto
 Name: pluto
 Depends: winterboard
-Version: 0.5.10
+Version: 0.5.11
 Architecture: iphoneos-arm
 Description: still in early testing, pluto is an icon theme
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
