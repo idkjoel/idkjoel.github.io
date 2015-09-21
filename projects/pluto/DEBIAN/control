@@ -1,9 +1,9 @@
 Package: com.idkjoel.pluto
 Name: pluto
 Depends: winterboard
-Version: 0.8
+Version: 0.8.1
 Architecture: iphoneos-arm
-Description: in this version: added new icons, fixed others
+Description: in this version: control center theme!! (also some icons)
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
