@@ -1,15 +1,15 @@
 Package: com.idkjoel.pluto
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.pluto_1.0_iphoneos-arm.deb
-Size: 3725744
-MD5sum: 3041ca55a293a0e76932dd411ce36294
-SHA1: d6d06c123d6b695fa2b4ce0a9d7b2cb7ba4f06fa
-SHA256: 13abcad760621c46ea4d0dbd4485f0f68995255b59435d199f64441a9a012837
+Filename: ./debs//com.idkjoel.pluto_1.0.1_iphoneos-arm.deb
+Size: 3735596
+MD5sum: 9da5ea88a387c8d4620b68574026c027
+SHA1: 7ceec4829adf56b15e90fee3bb86c3afa94d25a0
+SHA256: 26b0d2b765d347778e79838e6416b234623051092b098a3832311ddd2f8ded28
 Section: Themes
-Description: in this version: gold master cantidate!! potentially the final version before release :)
+Description: in this version: updates to custom cover placement, wifi status bar
 Author: joel johnson <joel.schellenberger@gmail.com>
 Name: pluto
 

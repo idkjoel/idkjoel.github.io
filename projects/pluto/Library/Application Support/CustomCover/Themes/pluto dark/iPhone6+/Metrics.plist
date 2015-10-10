@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>ArtworkOriginX</key>
-	<real>-123.5</real>
+	<integer>-130</integer>
 	<key>ArtworkOriginY</key>
-	<integer>-163</integer>
+	<integer>-200</integer>
 	<key>ArtworkSizeX</key>
 	<integer>242</integer>
 	<key>ArtworkSizeY</key>
