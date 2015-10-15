@@ -3,7 +3,7 @@ Name: pluto
 Depends: winterboard
 Version: 1.1.2
 Architecture: iphoneos-arm
-Description: Beta version, testing for iOS 9 release.
+Description: Beta version, testing for iOS 9 release. Glyph version also in early beta.
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
