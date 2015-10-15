@@ -1,9 +1,9 @@
 Package: com.idkjoel.pluto
 Name: pluto
 Depends: winterboard
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
-Description: in this version: updates to custom cover placement, wifi status bar
+Description: iOS 9 Beta 1
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
