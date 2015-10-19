@@ -1,7 +1,7 @@
 Package: com.idkjoel.pluto
 Name: pluto
 Depends: winterboard
-Version: 1.9
+Version: 1.9.1
 Architecture: iphoneos-arm
 Description: Beta version, testing for iOS 9 release. New icons!
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
