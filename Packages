@@ -5,9 +5,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_1.9_iphoneos-arm.deb
 Size: 3690980
-MD5sum: 9c7f82af64461dbe6814135da0ce68ac
-SHA1: bb462600bcae8f3d836f3df722804ab55f123caf
-SHA256: 95fcb4509025b0318f1d8d89267f09fc5d7716a08de15fecddb5f24c34318430
+MD5sum: 9224862a8f5d1c6a1f43c0aff3c28bc6
+SHA1: ec51939b06cece005388d10ce8b0fb83ce388aff
+SHA256: d46943fb4a234d3b28d7408d2a5aec8ecea65b63440287190d9d4a4849aa66dc
 Section: Themes
 Description: Beta version, testing for iOS 9 release. New icons!
 Author: joel johnson <joel.schellenberger@gmail.com>
