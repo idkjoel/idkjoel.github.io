@@ -1,7 +1,7 @@
 Package: com.idkjoel.acai
 Name: acai
 Depends: winterboard
-Version: 0.1.10
+Version: 0.1.11
 Architecture: iphoneos-arm
 Description: New theme -- initial beta. Soft colours.
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
