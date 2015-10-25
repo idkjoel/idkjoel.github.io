@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.0-1_iphoneos-arm.deb
-Size: 3953760
-MD5sum: 77e8648a886e7d9a7ee8b1211cc72797
-SHA1: f2d00cc94790815100233f67e23bf4c82ae4af48
-SHA256: 88d6f4e1f9aa0f13343d4b05c30e5b1468b0b085ef40ece820db4b0fd8b7c4b1
+Size: 3954482
+MD5sum: d2bcc93b48a2bef6fd615e210bb85c1b
+SHA1: 9bc1900b1dff5aa8c4579a4d4f38fce817b258ad
+SHA256: e7f08c290c1c47164e83d575376206b76651647e07df2afd9301d6c58219ef37
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
