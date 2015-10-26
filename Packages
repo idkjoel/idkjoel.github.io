@@ -1,13 +1,13 @@
 Package: com.idkjoel.acai
-Version: 0.1.12
+Version: 0.1.13
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.acai_0.1.12_iphoneos-arm.deb
-Size: 2381670
-MD5sum: 2a55cc82eaab5e0a08aa5645a6b80720
-SHA1: 850e42c73f5cd6a42883e429f91f61a68eda7674
-SHA256: 01574a09d524f265f14aa809c9e5968ee4675e7f2b4d2121d83b9e7952b7a8fd
+Filename: ./debs//com.idkjoel.acai_0.1.13_iphoneos-arm.deb
+Size: 2378680
+MD5sum: 876f518b2fe4f699f920472cdd5232d0
+SHA1: b7cd96ede8eefc7c5b45dc801675c447bfd258e2
+SHA256: 8463a33d8b9ba02dc9db8c7803822a40c9e3d7de0e3d31b0f32853f24708695e
 Section: Themes
 Description: New theme -- initial beta. Soft colours.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.0-1_iphoneos-arm.deb
 Size: 3954482
-MD5sum: 05d7eb36875206e8371c8fd9e6465e55
-SHA1: a85532a752ca52747e0fac42abd37f4f174d41b3
-SHA256: c5b829f447b400ae28d7b871224cc49c31018ea77e181add9e4fa708b0c62384
+MD5sum: 1836afcc0f343fd93a291613f76094fd
+SHA1: dab5428fe1988702ca4081f5f63b3d85958447fe
+SHA256: 0c3ae0edd6ea3023e7d7434927eed9e4e722cd91eb3a7e3f47831fa902ad538e
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
