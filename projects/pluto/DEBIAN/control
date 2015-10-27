@@ -1,7 +1,7 @@
 Package: com.idkjoel.pluto
 Name: pluto
 Depends: winterboard
-Version: 2.0-1
+Version: 2.1
 Architecture: iphoneos-arm
 Description: Finalized iOS 9 compatible version of Pluto.
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
