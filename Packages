@@ -1,43 +1,43 @@
 Package: com.idkjoel.acai
-Version: 0.2.4
+Version: 0.2.4-1
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.acai_0.2.4_iphoneos-arm.deb
+Filename: ./debs//com.idkjoel.acai_0.2.4-1_iphoneos-arm.deb
 Size: 2416904
-MD5sum: 6d8a13dd6b8f66a6a4dd4830d9dcf27c
-SHA1: d821b6a8ee8e035af8621421044b6c79a26571eb
-SHA256: 58f0646c9e711bea10d9157a647102c08f39d7e605888b57552ef6dc85122131
+MD5sum: bfd8870accea3d73f163dae103492f17
+SHA1: 1a3919f26dae9fa2e82cd2330cb7994d45937107
+SHA256: 5acd63eb184e89d733907d404a83d21b6ba9dd3b46d76d5bb53a8d721649358b
 Section: Themes
 Description: New theme -- initial beta. Soft colours.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Name: acai
 
 Package: com.idkjoel.pluto
-Version: 2.2.1
+Version: 2.2.1-1
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.pluto_2.2.1_iphoneos-arm.deb
+Filename: ./debs//com.idkjoel.pluto_2.2.1-1_iphoneos-arm.deb
 Size: 3966406
-MD5sum: 273c2bde08aed8868456b5073d03b6c1
-SHA1: 7c4380d677fa0f47c003986c006962d7c6a93eb4
-SHA256: ab685972daf6c439005e7882ff846bcb8d0be8ba7bff6524619dfef434d59b99
+MD5sum: 5b1bf2ba9df5577aa116dccdd611935c
+SHA1: 3c259cd34ff6d4f83972679ffb0f7d1966ed1cf9
+SHA256: 94e98abb94e9580fbde6d15d7fd9bac2299d52bb480f1109bc10e7699446678d
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Name: pluto
 
 Package: com.idkjoel.softy
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.softy_0.1_iphoneos-arm.deb
+Filename: ./debs//com.idkjoel.softy_0.2_iphoneos-arm.deb
 Size: 11902
-MD5sum: e8c6ed3f6aec7a630ada541360e5ba13
-SHA1: a888f0724ec936983758864d0eba8578c89895dd
-SHA256: 106fd8e1433736c4b3c3aad46459fd6c676fe8b98632d229184c5410b665b321
+MD5sum: 9ab30131748e990b7dce384de7d03f2e
+SHA1: 1ea477d89e9773f52fecae57d17632568b6c0267
+SHA256: be2e87c4106b19976ac81f8f85102d67d931ea7e3f1c6ceb0dd38a6a5d52677b
 Section: Themes
 Description: Soft, rounded status bar theme.
 Author: joel johnson <joel.schellenberger@gmail.com>
