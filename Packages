@@ -1,15 +1,15 @@
 Package: com.idkjoel.acai
-Version: 0.3.2
+Version: 0.3.4
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.acai_0.3.2_iphoneos-arm.deb
-Size: 2148698
-MD5sum: e8b1b1a4719216df884811e1cebe17ba
-SHA1: 5ba85fb9d065048258b85762cae806c527d8a434
-SHA256: 3b1147f01320bed0f1605f69757ebac2784705f01b2629d32fde5fa7224e5580
+Filename: ./debs//com.idkjoel.acai_0.3.4_iphoneos-arm.deb
+Size: 2188444
+MD5sum: 34c22d7615eaef46bd4b9ba2c3159aac
+SHA1: c31318c4e7c0a2df9ea8c943c2b26da55142baf5
+SHA256: 5df61a2850f743503f3608bc1460d4ebf25ba0a685469e20bcbaafbb2ce8f86c
 Section: Themes
-Description: New theme -- initial beta. Soft colours.
+Description: Soft colours, light glyphs.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Name: acai
 
@@ -20,9 +20,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.2.1-1_iphoneos-arm.deb
 Size: 3966406
-MD5sum: eaf8118727de8238e830b88761b07da0
-SHA1: 363cca932689d37b81dac496c9c7a9e2560e2413
-SHA256: 054adb64ea499059cbb07eb9d61b606430f2336ef068887bdb3238bb883bab74
+MD5sum: 3b72c773212a2ad7660a25e92cc192f2
+SHA1: 074d0cbdfee1339e5431a86d1e06a6406503db23
+SHA256: fd42c178f8579f9de213661067d496bd8c0279c3f687cf2d76133988fc714dc5
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -35,9 +35,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.softy_0.2_iphoneos-arm.deb
 Size: 11902
-MD5sum: 86b590bae547f72c85866aec7ca38dc1
-SHA1: 705eb47c7bf9c8ec41f7f2c937feb75c44b00f4d
-SHA256: bd10a7a5d7964acd9852aacb1a92fc2497c8044e2c3690655681b2a7fabe5e31
+MD5sum: 98a6e977a67ed8730d84c297378016ca
+SHA1: 84815f84e42b0b9e46ac6549b52a2156839cfffa
+SHA256: dc68079b42c2cad428b27b21fc0c75d2d2d0b44c85baef2acbfb37342083363b
 Section: Themes
 Description: Soft, rounded status bar theme.
 Author: joel johnson <joel.schellenberger@gmail.com>
