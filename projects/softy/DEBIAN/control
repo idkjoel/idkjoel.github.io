@@ -1,7 +1,7 @@
 Package: com.idkjoel.softy
 Name: softy
 Depends: winterboard
-Version: 0.2
+Version: 0.2.1
 Architecture: iphoneos-arm
 Description: Soft, rounded status bar theme.
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
