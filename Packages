@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.acai_0.6.1_iphoneos-arm.deb
-Size: 2390262
-MD5sum: 39541e72f9168efa8a478409cce400e8
-SHA1: 14de2cf9ac0313104ea5235a18bb96215ef2dc86
-SHA256: 68111caf218bbabf871220869c85746ecc2f6d68451ee096ff2cc29eb4fc9fe0
+Size: 2387372
+MD5sum: dec472d944beeb4b14e4365534797711
+SHA1: 2727a46b3be4947b2d12c929dd1bcb6afebd1145
+SHA256: ed135e2a9b41e1feb2a89fc3a6ab93239f55f6c5d6109a7be49df08250bea366
 Section: Themes
 Description: Soft colours... with flare.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.placebo_0.1.3_iphoneos-arm.deb
 Size: 193102
-MD5sum: b9b3e62f586afba8dc10de20cc620fea
-SHA1: 1d8798e5f86eb399cdfa15ad4fba8ae5e7fe48db
-SHA256: fc73b7be1b596065c63ebddf5e9efa90cbd0617128811a295674bbf3d4660c55
+MD5sum: 61a0cb40d43d2e0dc13a1e5b0821cdc5
+SHA1: d829c4e811b96fd419e415767681b5c921a12473
+SHA256: 5d6d6e0913fab738d24c05240ccb9004dbde14b567ef60e9b4751a7717213f1d
 Section: Themes
 Description: A different style for a different time.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -35,9 +35,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.3_iphoneos-arm.deb
 Size: 3966404
-MD5sum: fec28a4442c88b706ac7da3d988a8971
-SHA1: e1be1f2ac2f26469429bec0b04d7e600ad860582
-SHA256: 63a4847b9b64489a8a45fa4907ad8914691bf2c6052c9c598309b9bdfd579a3f
+MD5sum: 02f39f55bf1a3243883b75a6a61e5c15
+SHA1: 2fdaeef6a4556bc0e35dffe3650ae8b97fad8db4
+SHA256: c156cca2de9d533b2201daf186bac177bf2c524b5291706fe91b70ea58ae1c99
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -50,9 +50,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.softy_0.2.1_iphoneos-arm.deb
 Size: 11904
-MD5sum: 4846d02650781e929522a400e81b1556
-SHA1: f1e2c5e8272b9daa920ca834ef2b3030528c49af
-SHA256: 0253a2aedc55c37e8e524b411293eb484b05e49c6e8cf27e99eba3cf4f4d1c83
+MD5sum: 648d860cf623039939c63fb75fa3c43d
+SHA1: a4084b47b9a43366a5e6245e9c6263b9f82b1cdb
+SHA256: bebb6812bc2bf76feca271ee5ccc5bad8dde28ab931a5544d7c901afd253438e
 Section: Themes
 Description: Soft, rounded status bar theme.
 Author: joel johnson <joel.schellenberger@gmail.com>
