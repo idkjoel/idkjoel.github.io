@@ -5,9 +5,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.acai_0.6.7_iphoneos-arm.deb
 Size: 2436418
-MD5sum: 7031f6cc1d0e61d37016424f26927d9a
-SHA1: 3097dd68993483fb8507004213ac2f642cff9a00
-SHA256: ce9aaf289ea8ffb2c05c2f5cf81b853eb2f59fd518e5c25a9998518f6374a5bd
+MD5sum: 7d574c5152cb2f758a95441e5c846312
+SHA1: 7d56b391451fa8d4014f74e9f54e84a6e875d75a
+SHA256: 02b0fc8b987688010c6a8b615c2ce7eff8832e7b8d6ee2ac07fcb6bcf78acb94
 Section: Themes
 Description: Soft colours... with flare.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.placebo_0.1.3_iphoneos-arm.deb
 Size: 193102
-MD5sum: f9d6352f6cb958d75b9daaec9e083d0b
-SHA1: 92ae93301de34134b67b17c8b24b965af7cc610d
-SHA256: 7a4ebe46e529e674de89453356d6848ac2344d871b6cbb831d8d9f5d2595d8bc
+MD5sum: 56dbd9ac5e4a0279380215f5acb8ad5a
+SHA1: 2773879e8fcee078a8ed2aa5a5d17c560dacb3b1
+SHA256: f912526d5fd4ef29a1c3a2edddbe8b107d05414285434505c5aef97ceea7ddd4
 Section: Themes
 Description: A different style for a different time.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -35,9 +35,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.3_iphoneos-arm.deb
 Size: 3966404
-MD5sum: d7b536844766f763fb320d29243ae087
-SHA1: 5e0d04c276cba0653ed00a9fff737882b401474d
-SHA256: f28fc0095cfd0afccb90a4f54e27e9b442653dcc3f656eaf3b5f9f3691e48009
+MD5sum: 83679d6d90a02d20486926dc408a99ae
+SHA1: 1755fe3e45ec0ffd11ded111365e049032fc6f4e
+SHA256: f8120231a36d1cb4ac2029f7d8b25457f6b8a378c86e83781e9ca2c4e6b61b3f
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -50,9 +50,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.softy_0.2.1_iphoneos-arm.deb
 Size: 11904
-MD5sum: 34c5f21bf8cf056c43f58516af8d41d6
-SHA1: 0fa840931254b6a2ee2c7ecf074d30794757c602
-SHA256: f2e74fa00f8666938b681ee3d6da1d2d7924738565b46e0e610de929ade481d0
+MD5sum: b2e1e7502e136d5cc16a0eeee6f38d12
+SHA1: 3ca9c8755d533ff8df4d552cc5231bb6631b4632
+SHA256: 584f8c6547032b32283eecc6341df2c097dc357513f381527094ed5e6711bae1
 Section: Themes
 Description: Soft, rounded status bar theme.
 Author: joel johnson <joel.schellenberger@gmail.com>
