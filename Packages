@@ -1,13 +1,13 @@
 Package: com.idkjoel.acai
-Version: 0.6.8
+Version: 0.6.9
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.acai_0.6.8_iphoneos-arm.deb
-Size: 2436418
-MD5sum: 698e40b910cd404161c12271e7ce0c9f
-SHA1: 3bb60d0109ee47f712e7166578e559f1be763cdf
-SHA256: 3f5188f58aa8a4c408955b2bfa506b1e980472d8f55c71527b7aa04ddb8df1ac
+Filename: ./debs//com.idkjoel.acai_0.6.9_iphoneos-arm.deb
+Size: 3000926
+MD5sum: d784fdbb9669acf2c37534d871783d78
+SHA1: 13f8d7b3b16c9226783d4dd1c9561c8c532651bf
+SHA256: fa6553f1696989bafba2f231ab0005a70b4da8111650c85a1ca39ead399535c6
 Section: Themes
 Description: Soft colours... with flare.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -20,9 +20,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.placebo_0.1.3_iphoneos-arm.deb
 Size: 193102
-MD5sum: 6d53edd288b1c387805a9220ffcecfa4
-SHA1: 9fbd093ac7d2453910652ad0fe8813b36973242b
-SHA256: 1c43a2a7e7e0df4a53dccf8a7e0f7998cd497f7746fcb151f77fd04fe6be1b2b
+MD5sum: cf3de19144081d10590c1cbe8d7d0f90
+SHA1: 6c9ff4a09447849c867f5d887230718e11fed820
+SHA256: a951512e3396f2031978dda07c72cecd76c1e6bfc481160486054e6a64f9d666
 Section: Themes
 Description: A different style for a different time.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -35,9 +35,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.3_iphoneos-arm.deb
 Size: 3966404
-MD5sum: 287685fc2e982c38ba833a31fdc073fd
-SHA1: 33b9cf0f67c0687487b6df452e6af1805d450af1
-SHA256: a40dc77d4f36753528f59e8557c788f0008c70c3c9707a28e0d722e816052496
+MD5sum: 2c4f1cfa02e4235410dac7099333b820
+SHA1: 9c1c5d77348384b8b32f4b83d9d8e8d3a3dc3653
+SHA256: 6457547ad736103dad25c58f1634246d04f1581b406030611a858f02d9a86e6e
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -50,9 +50,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.softy_0.2.1_iphoneos-arm.deb
 Size: 11904
-MD5sum: 31ade2239fbc799bc1d43e67da87c228
-SHA1: c80cec15ea07d2c6e898b89c29e71c2a438000d4
-SHA256: b870784ccfab18963457e2a5179d37c473f942a2841e8b9e629fbdced50e7412
+MD5sum: 132b2dfb4db16d78ccd326bbe1566251
+SHA1: 7d8e5a7b0fd675e688cbe4b682387a0f20188a4e
+SHA256: 953e2825178162c14c4d89a19234665870376546a1d0fb3a3f04e0d9b525603a
 Section: Themes
 Description: Soft, rounded status bar theme.
 Author: joel johnson <joel.schellenberger@gmail.com>
