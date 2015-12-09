@@ -1,7 +1,7 @@
 Package: com.idkjoel.acai
 Name: acai
 Depends: winterboard
-Version: 0.6.10
+Version: 0.6.10-1
 Architecture: iphoneos-arm
 Description: In this version: Bug fixing.
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
