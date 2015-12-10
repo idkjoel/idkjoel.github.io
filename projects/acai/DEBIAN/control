@@ -1,9 +1,9 @@
 Package: com.idkjoel.acai
 Name: acai
 Depends: winterboard
-Version: 0.7
+Version: 0.7.1
 Architecture: iphoneos-arm
-Description: In this version: New icons. I still have yet to fix the issues with the iconmask, but I'll get that done as soon as I can.
+Description: In this version: Potentially fixed icon mask issues?
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
