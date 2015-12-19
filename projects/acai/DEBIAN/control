@@ -1,9 +1,9 @@
 Package: com.idkjoel.acai
 Name: acai
 Depends: winterboard
-Version: 0.8.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: In this version: Full anemone compatibility, new icons!
+Description: In this version: First release!
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
