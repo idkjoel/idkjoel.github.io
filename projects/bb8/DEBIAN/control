@@ -1,0 +1,9 @@
+Package: com.idkjoel.bb8
+Name: bb8 bundle
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: a bb-8 inspired respring logo
+Maintainer: joel johnson <joel.schellenberger@gmail.com>
+Author: joel johnson <joel.schellenberger@gmail.com>
+Section: Themes
