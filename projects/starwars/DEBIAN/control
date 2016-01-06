@@ -1,7 +1,7 @@
 Package: com.idkjoel.starwars
 Name: star wars bundle
 Depends: winterboard
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Description: star wars inspired customization options
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
