@@ -3,7 +3,8 @@ Name: acai
 Depends: winterboard
 Version: 1.0
 Architecture: iphoneos-arm
-Description: In this version: First release!
+Description: A flat, colourful theme for iOS.
+Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acai
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Section: Themes
