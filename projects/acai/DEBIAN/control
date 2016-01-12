@@ -1,7 +1,7 @@
 Package: com.idkjoel.acai
 Name: acai
 Depends: winterboard
-Version: 1.0-1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: A flat, colourful theme for iOS.
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acai/index.html
