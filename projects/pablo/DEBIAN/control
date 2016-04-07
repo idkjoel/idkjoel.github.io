@@ -1,0 +1,10 @@
+Package: com.idkjoel.pablo
+Name: pablo
+Depends: winterboard
+Version: 0.1
+Architecture: iphoneos-arm
+Description: pre-release version of pablo
+Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acai/index.html
+Maintainer: joel johnson <joel.schellenberger@gmail.com>
+Author: joel johnson <joel.schellenberger@gmail.com>
+Section: Themes

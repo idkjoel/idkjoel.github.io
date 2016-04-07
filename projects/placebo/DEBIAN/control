@@ -1,9 +1,0 @@
-Package: com.idkjoel.placebo
-Name: placebo
-Depends: winterboard
-Version: 0.1.3
-Architecture: iphoneos-arm
-Description: A different style for a different time.
-Maintainer: joel johnson <joel.schellenberger@gmail.com>
-Author: joel johnson <joel.schellenberger@gmail.com>
-Section: Themes
