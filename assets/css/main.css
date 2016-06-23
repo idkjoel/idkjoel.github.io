@@ -1825,7 +1825,7 @@
 		}
 
 	.align-left {
-		text-align: left;
+		text-align: justify;
 	}
 
 	.align-center {
@@ -1833,7 +1833,7 @@
 	}
 
 	.align-right {
-		text-align: right;
+		text-align: justify;
 	}
 
 /* Section/Article */
