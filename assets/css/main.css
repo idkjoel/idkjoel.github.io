@@ -1723,7 +1723,7 @@
 		font-weight: 900;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
-		text-transform: uppercase;
+		text-transform: lowercase;;
 		letter-spacing: 0.35em;
 	}
 
@@ -2475,14 +2475,14 @@
 		font-size: 0.8em;
 		font-weight: 900;
 		height: 3.5em;
-		letter-spacing: 0.35em;
+		letter-spacing: -0.35em;
 		line-height: 3.45em;
 		overflow: hidden;
 		padding: 0 1.25em 0 1.6em;
 		text-align: center;
 		text-decoration: none;
 		text-overflow: ellipsis;
-		text-transform: uppercase;
+		text-transform: lowercase;
 		white-space: nowrap;
 	}
 
@@ -2864,7 +2864,7 @@
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
-			text-transform: uppercase;
+			text-transform: lowercase;
 			display: inline-block;
 		}
 
@@ -2920,8 +2920,8 @@
 						border: 0;
 						font-size: 0.8em;
 						font-weight: 900;
-						letter-spacing: 0.35em;
-						text-transform: uppercase;
+						letter-spacing: -0.35em;
+						text-transform: lowercase;
 					}
 
 					#header nav ul li a[href="#menu"] {
