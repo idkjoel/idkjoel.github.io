@@ -1,7 +1,7 @@
 Package: com.idkjoel.tumble
 Name: tumble
 Depends: winterboard
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: tumble is a status bar theme for iOS
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
