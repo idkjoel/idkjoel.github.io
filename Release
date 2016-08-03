@@ -1,7 +1,7 @@
-Origin: idkjoel's [beta] repo
-Label: idkjoel's [beta] repo
+Origin: idkjoel's repo
+Label: idkjoel's repo
 Suite: stable
-Version: 2.0
+Version: 2.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
