@@ -5,14 +5,28 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.acai_1.0.8_iphoneos-arm.deb
 Size: 3487964
-MD5sum: 5f3ec7e4bddb43eb96fa1ced5dc5675e
-SHA1: 8215b48d09c49382b5b231e7b8e2385ca66b465c
-SHA256: 8fa13861486044e628b674b2a8bf33e8381cea688aa1b881528b8fe5e852f4d6
+MD5sum: 543a8553fb8cf1f1fe6eb66b34565f07
+SHA1: f1af1434ce06192c4e3d23a8ee1a6c3555188779
+SHA256: 181a9ab8e1cd4a43a677139aee066c7f1b20a0eb79cf01660d7d3ab194bdcdd4
 Section: Themes
 Description: A flat, colourful theme for iOS.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acai/index.html
 Name: acai
+
+Package: com.idkjoel.elCapLoader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
+Filename: ./debs//com.idkjoel.elcaploader_1.0_iphoneos-arm.deb
+Size: 149568
+MD5sum: 121b6802ee53de98de402a0a575e9aba
+SHA1: 2c5166e148ad80421307e63d04fd76de39d4a568
+SHA256: a7afb7b0e5d4004a83324fb679fec8c52bd624ecacf383b38aeb07495d5266a3
+Section: Themes
+Description: the new colourful loader from macOS el capitan: ported to iOS.
+Author: joel schellenberger <joel.schellenberger@gmail.com>
+Name: el cap loading indicator
 
 Package: com.idkjoel.pluto
 Version: 2.3
@@ -21,9 +35,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.3_iphoneos-arm.deb
 Size: 3966360
-MD5sum: c9f7c489ca6bd34191e44ee8752abf98
-SHA1: 387b8c32ef78daba7185f1c1f49557e3b4f10fdf
-SHA256: aa0c38fc67d6c18d95fba5564959b5e3fff3619bf803a6c4e56882e0a27b1a3f
+MD5sum: af675b177226d1aa59a935d6b8c85a8b
+SHA1: b5baa8fc711b87475bfd20994275c4e5d6c30ad1
+SHA256: 386a144c63725ad63764edf4d37675eae27f0d3ffecd88c583aaeadd131607b4
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -35,10 +49,10 @@ Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.tumble_2.0_iphoneos-arm.deb
-Size: 119488
-MD5sum: 9fe25ae9a493b1ba82a4a1dd0ccec244
-SHA1: 03bfb992e755a6585ab6ebf622edadfb84a27d26
-SHA256: 1572bc8ff26507badc36719bc0978cfb9f7ac79df435a1ca944a06b4c326a749
+Size: 127402
+MD5sum: 5dbb84ea0ab9aac7aaf2f9159bbcdc07
+SHA1: 29a5887c9946cf91677cd70dad4ffd133cc0527f
+SHA256: a4e642a25949fceb55f19c3d25be0a525a6ebb631002de620428273250256e60
 Section: Themes
 Description: tumble is a new, flat icon theme for iOS
 Author: joel johnson <joel.schellenberger@gmail.com>
