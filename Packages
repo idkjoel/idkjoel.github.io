@@ -5,9 +5,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.acai_1.0.8_iphoneos-arm.deb
 Size: 3487964
-MD5sum: 115881df540b2f0739fc70d06608bc9c
-SHA1: c116f740be0ede5a4cdce51fee65a80ef08b617f
-SHA256: 1794f887f48b4b1ca5a5c88920fe77b6aa71c9f98ee5a584b7104c3040947039
+MD5sum: 9cc6513779d533a163a1c0ed1483c977
+SHA1: a79061d4039eb014b8d4c92e60892e060040016c
+SHA256: 0b18439a9a68a4cb8719429ca62783347a8aa7d56d1ff0b72a3254757acd78c9
 Section: Themes
 Description: A flat, colourful theme for iOS.
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Filename: ./debs//com.idkjoel.elcaploader_1.0_iphoneos-arm.deb
 Size: 149568
-MD5sum: 67224a5f513a9bf69c0c040d0e3249f8
-SHA1: 6577758948d55d63f87d0cb81e7fcddf05605a4a
-SHA256: eae4f1abf305a0fa8f03c93104b697060a80eb6ec3fad920b0ba5fdcc21b6784
+MD5sum: d6afdbfba709afb4afc6dfe658345af6
+SHA1: 2cccde072b19b2443bed0a096de489b5c1974aa6
+SHA256: 592388e90332640bbb15a1cc8de008cd3ec3b2508d62df592de5d32cd1f3cae2
 Section: Themes
 Description: the new colourful loader from macOS el capitan: ported to iOS.
 Author: joel schellenberger <joel.schellenberger@gmail.com>
@@ -35,38 +35,38 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.3_iphoneos-arm.deb
 Size: 3966360
-MD5sum: e997eb3fd7221a1c059685272c65cefe
-SHA1: 82e195af9cd418d6de1d387bd144ff7d16cec607
-SHA256: 5dc827a0eb838cb2c71fedc58428a05c4f316b6f0de6cb44400aa03ddabc6ed7
+MD5sum: 411bdbac092bcf4325c271cf75656fec
+SHA1: 8e6ccf1ed438edbdf46b76fadd3962f00ac8fe13
+SHA256: 917b938ebe270f3724a379fa4f89a3f9ea39fe1a261ec7467c0536a6d8a447da
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Name: pluto
 
 Package: com.idkjoel.smartLock
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
-Filename: ./debs//com.idkjoel.smartlock_1.0_iphoneos-arm.deb
-Size: 191318
-MD5sum: 41565da9e746dc9ca8073ee15efbfb92
-SHA1: 73bf9c837f69d4c5f8d2ac275337f0d4421b5905
-SHA256: 7445321f5e6910769b86684e99e3dd7503dd4ae2b48aee8adbfec240666898b6
+Filename: ./debs//com.idkjoel.smartlock_1.1_iphoneos-arm.deb
+Size: 191416
+MD5sum: 07df676e23fab8adf164a33a4820fca0
+SHA1: 087e6f65bc097b8b3207b0ddf4839e87c83dfe7a
+SHA256: caf8b3ceaf315fc06eafe80b7a9100cca8c4d7ffd8be05eb92eb6219f959a616
 Section: Themes
 Description: smartLock lockscreen for lockhtml
 Author: joel schellenberger <joel.schellenberger@gmail.com>
-Name: smartLock
+Name: smart lock (lockhtml4)
 
 Package: com.idkjoel.tumble
-Version: 0.5
+Version: 0.5.1
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.idkjoel.tumble_0.5_iphoneos-arm.deb
-Size: 127404
-MD5sum: b507308f8d6031ad0ee84fa9251279b3
-SHA1: 5b012f09157806e43bac100dcc53d40e57b5049b
-SHA256: 2fc4561a36f294c35a23cc76f1dbb81f95ee6fdda6950ca2012b98efae52672a
+Filename: ./debs//com.idkjoel.tumble_0.5.1_iphoneos-arm.deb
+Size: 134360
+MD5sum: e42ee8364dc545b52e304f6a39cc7fb4
+SHA1: 7129189722fdcb930385806a9339515be2a72335
+SHA256: b5c501eff427730c61846bfb77641a497c3d3c00c095a30cf96e57247e93f92d
 Section: Themes
 Description: tumble is a new, flat icon theme for iOS
 Author: joel johnson <joel.schellenberger@gmail.com>
