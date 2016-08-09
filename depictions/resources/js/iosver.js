@@ -9,8 +9,8 @@ function iOSversion() {
 }
 ver = iOSversion();
 if (ver[0] >= 8) {
-	document.getElementById('version').innerHTML='<p><strong>✓</strong> Your device is supported.</p>';
+	document.getElementById('version').innerHTML='<p>:blush: you can install this package on your device</p>';
 }
 else {
-	document.getElementById('version').innerHTML='<p><strong>x</strong> Your device is not supported.</p>';
+	document.getElementById('version').innerHTML='<p>:no_mouth: your device is not supported by this package</p>';
 }
