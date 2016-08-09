@@ -272,7 +272,7 @@ panel>label {
     font-size: 16px
 }
 .cytyle-flat panel>label {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 14px
 }
 panel>footer {
