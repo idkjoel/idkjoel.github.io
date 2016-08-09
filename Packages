@@ -11,7 +11,7 @@ SHA256: baee18d7b4bd76cb0749c4796821747cb70048edf34d1da79728d968e943aaa9
 Section: Themes
 Description: A flat, colourful theme for iOS.
 Author: joel johnson <joel.schellenberger@gmail.com>
-Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acai/index.html
+Depiction: https://idkjoel.github.io/depictions/?p=com.idkjoel.acai
 Name: acai
 
 Package: com.idkjoel.elCapLoader
@@ -26,6 +26,7 @@ SHA256: 769a3827d337660fadd5d183ebefb9fd477a8114c7b1ae28d33e324d70329429
 Section: Themes
 Description: the new colourful loader from macOS el capitan: ported to iOS.
 Author: joel schellenberger <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/?p=com.idkjoel.elCapLoader
 Name: el cap loading indicator
 
 Package: com.idkjoel.pluto
@@ -41,6 +42,7 @@ SHA256: 503b1c8bd2d31d6c33aa41b16ada1d9551c96f58c3505d70d83b6f4515da3ca8
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/?p=com.idkjoel.pluto
 Name: pluto
 
 Package: com.idkjoel.smartLock
@@ -55,6 +57,7 @@ SHA256: d000e77f32ff8d5b6ade81bd7563c81b3957f927fe4514fd6858cf6aa4987335
 Section: Themes
 Description: smartLock lockscreen for lockhtml
 Author: joel schellenberger <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/?p=com.idkjoel.smartLock
 Name: smart lock (lockhtml4)
 
 Package: com.idkjoel.tumble
@@ -70,5 +73,5 @@ SHA256: 3ec78ad9ebe4a00d7689cbc413dbfb1bb9a9d3a0c2f5acb89437062b6adec7b6
 Section: Themes
 Description: tumble is a new, flat icon theme for iOS
 Author: joel johnson <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/?p=com.idkjoel.tumble
 Name: tumble
-
