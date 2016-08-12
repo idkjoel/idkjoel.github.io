@@ -1,7 +1,7 @@
 Package: com.idkjoel.eMinor
 Name: eMinor
 Depends: winterboard
-Version: 0.2
+Version: 0.2.1
 Architecture: iphoneos-arm
 Description: eMinor is a new, flat icon theme for iOS
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
