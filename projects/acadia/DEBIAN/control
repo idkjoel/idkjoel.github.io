@@ -1,9 +1,9 @@
 Package: com.idkjoel.acadia
 Name: acadia
 Depends: winterboard
-Version: 1.9
+Version: 1.0
 Architecture: iphoneos-arm
-Description: A flat, colourful theme for iOS.
+Description: a flat, rounded & fun theme
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acadia/index.html
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>

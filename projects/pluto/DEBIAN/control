@@ -3,7 +3,7 @@ Name: pluto
 Depends: winterboard
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Finalized iOS 9 compatible version of Pluto.
+Description: a simple, flat, and dark theme
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Author: joel johnson <joel.schellenberger@gmail.com>
 Icon: file://Applications/Cydia.app/pluto.png
