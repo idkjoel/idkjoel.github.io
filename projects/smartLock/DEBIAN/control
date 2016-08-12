@@ -1,8 +1,8 @@
 Package: com.idkjoel.smartLock
-Name: smart lock (lockhtml4)
-Version: 1.1
+Name: smartLockMod
+Version: 1.2
 Architecture: iphoneos-arm
-Description: smartLock lockscreen for lockhtml
+Description: smartLock lockscreen mod for lockhtml 4
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Author: joel schellenberger <joel.schellenberger@gmail.com>
-Section: Themes
+Section: lockHTML

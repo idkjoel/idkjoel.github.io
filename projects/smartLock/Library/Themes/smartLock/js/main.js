@@ -5,14 +5,14 @@ $.ajaxSetup({
 	}
 });
 
-$(document).ready(function() {	
+$(document).ready(function() {
 	$("div.container").css("padding-top", vertical_spacing + "px");
 	init();
 });
 
 function updateClock() {
 	var objToday = new Date(),
-			dayOfWeek = new Array('Sun', 'Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat'),
+			dayOfWeek = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'),
 			curWeekday = dayOfWeek[objToday.getDay()],
 			months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'),
 			curMonth = months[objToday.getMonth()],
