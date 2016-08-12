@@ -1,8 +1,8 @@
-Package: com.idkjoel.elCapLoader
+Package: com.idkjoel.rainbowRoad
 Name: el cap loading indicator
 Version: 1.0
 Architecture: iphoneos-arm
-Description: the new colourful loader from macOS el capitan: ported to iOS.
+Description: the colourful loader from macOS el capitan: ported to iOS.
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Author: joel schellenberger <joel.schellenberger@gmail.com>
 Section: Themes

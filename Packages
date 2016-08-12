@@ -5,28 +5,31 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.acai_1.0.8_iphoneos-arm.deb
 Size: 3487964
-MD5sum: f5ff6800191dff96e9eea636cd23b7cc
-SHA1: bf84f14e8416146618c955e8ad8c6c355d8ecaff
-SHA256: 5dc9d4eb25df7af5aa400a9faa52bd1144990c32f38390f4302f4bcdf0df232b
+MD5sum: c24c42631399775a7a1a89163b1e78ab
+SHA1: 0991f0f21773420d1e80b46f696abbc965ad28b8
+SHA256: e5bfe0bff321fdbc75bacbd3e88b3d8efca83f4770714da7937ec33a7c85edd8
 Section: Themes
 Description: A flat, colourful theme for iOS.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acai/index.html
 Name: acai
 
-Package: com.idkjoel.elCapLoader
-Version: 1.0
+Package: com.idkjoel.eMinor
+Version: 0.2
 Architecture: iphoneos-arm
-Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
-Filename: ./debs//com.idkjoel.elcaploader_1.0_iphoneos-arm.deb
-Size: 149568
-MD5sum: 78fb9a13b5a2587fa0dd81675e132662
-SHA1: 6efe5488883d0b498a6337b44e22636465a4ba4d
-SHA256: fb3b1871679cc355f28bc5fb5ec51ecd96a44c2ece93f04f74646e6afa69b575
+Maintainer: joel johnson <joel.schellenberger@gmail.com>
+Depends: winterboard
+Filename: ./debs//com.idkjoel.eminor_0.2_iphoneos-arm.deb
+Size: 151272
+MD5sum: 24ce4691453b66f38b1df8333d19b75b
+SHA1: 69e136bcccf18025f8ca96b5d1014cefa3658496
+SHA256: 7181c4f097fef01c7a03253498cc4a82fcad7839e9c5dba001b301529255c0de
 Section: Themes
-Description: the new colourful loader from macOS el capitan: ported to iOS.
-Author: joel schellenberger <joel.schellenberger@gmail.com>
-Name: el cap loading indicator
+Description: eMinor is a new, flat icon theme for iOS
+Author: joel johnson <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.eMinor
+Icon: file://Applications/Cydia.app/eMinor.png
+Name: eMinor
 
 Package: com.idkjoel.pluto
 Version: 2.3
@@ -35,23 +38,37 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_2.3_iphoneos-arm.deb
 Size: 3966360
-MD5sum: d4e1c4e2c8b99f216f59a0297170107d
-SHA1: ea8b7a65601aa57a91791d696e2afb50e248da81
-SHA256: 03703e6676b4f27b5674e5c619cab10ac3bdace877c1438c9bd39b18f248b36b
+MD5sum: d27dcd5f7d6f723ed06f078d15b78262
+SHA1: ae81255b550c433354a82975f9a37c67fb855006
+SHA256: cce8c1327a5023a7df834aba6930516fa9decc8635ab3051c37bc3c7d478baa9
 Section: Themes
 Description: Finalized iOS 9 compatible version of Pluto.
 Author: joel johnson <joel.schellenberger@gmail.com>
 Name: pluto
+
+Package: com.idkjoel.rainbowRoad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
+Filename: ./debs//com.idkjoel.rainbowroad_1.0_iphoneos-arm.deb
+Size: 149568
+MD5sum: 3e5678963d7d1ca0ad54633f3c2c4fb5
+SHA1: 8a55a5edcc111363ecf5002fd42bec0f0801e70e
+SHA256: 65394833ec4e04c7f71a6b5061933dcdc66df2e521c778a14a1cf114c318309a
+Section: Themes
+Description: the colourful loader from macOS el capitan: ported to iOS.
+Author: joel schellenberger <joel.schellenberger@gmail.com>
+Name: el cap loading indicator
 
 Package: com.idkjoel.repoSetup
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Filename: ./debs//com.idkjoel.reposetup_0.1_iphoneos-arm.deb
-Size: 1876
-MD5sum: 1a5bdbc5e7d236b190e3635333f7b878
-SHA1: eb4815502e0a7c006b324da7b0cdc30608b542db
-SHA256: d166e4c277cab25cf1df97cf096d98b698bb7ea4d797334c4185ef993c3b7659
+Size: 1604
+MD5sum: ea00b2e4f283e75bdc49114eb876a417
+SHA1: d966636538d9be2db92be3d7319cfadfbe518954
+SHA256: 30992062566535e7ceea8662f3596aefbc36226722a37df253fb0b37132e391f
 Section: Themes
 Description: setup for installation of repo
 Author: joel schellenberger <joel.schellenberger@gmail.com>
@@ -63,29 +80,12 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Filename: ./debs//com.idkjoel.smartlock_1.1_iphoneos-arm.deb
-Size: 191488
-MD5sum: 6772854ff21c29145e5bffe924897b4d
-SHA1: ca86628ae5955b4d90d2812cd96cf32c524caa45
-SHA256: 3ebac0140580e6bf1d8b4977e67144ee2a7ec5a301f5436e63004d111fb9c322
+Size: 190832
+MD5sum: 0b24bc4de3ffea3ab07beea3741b2852
+SHA1: f31e03da01dfd15c8b2b192f9e7daf4f37eef355
+SHA256: 4c412efa05b89b782dbd6af86144713eb745b2089e905e20129e25b0336564a9
 Section: Themes
 Description: smartLock lockscreen for lockhtml
 Author: joel schellenberger <joel.schellenberger@gmail.com>
 Name: smart lock (lockhtml4)
-
-Package: com.idkjoel.tumble
-Version: 0.5.2
-Architecture: iphoneos-arm
-Maintainer: joel johnson <joel.schellenberger@gmail.com>
-Depends: winterboard
-Filename: ./debs//com.idkjoel.tumble_0.5.2_iphoneos-arm.deb
-Size: 152760
-MD5sum: 404680c3b4d7eaf24bc8da68af097927
-SHA1: b6be90e80a8b3bc774bc151840237c4b05939d10
-SHA256: 968d037f0ab917ad0195cb68cd948fd3f5d71da71efbc8de2cc08e1a139fe817
-Section: Themes
-Description: tumble is a new, flat icon theme for iOS
-Author: joel johnson <joel.schellenberger@gmail.com>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tumble
-Icon: file://Applications/Cydia.app/tumble.png
-Name: tumble
 
