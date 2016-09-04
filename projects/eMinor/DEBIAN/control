@@ -1,7 +1,6 @@
 Package: com.idkjoel.eMinor
 Name: eMinor
-Depends: winterboard
-Version: 0.2.9
+Version: 0.2.10
 Architecture: iphoneos-arm
 Description: eMinor is a super fun and friendly complete ui theme
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
