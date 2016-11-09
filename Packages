@@ -5,9 +5,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.acadia_1.0_iphoneos-arm.deb
 Size: 1316742
-MD5sum: 5085200524fddda31472b606636aebdc
-SHA1: 51941e351db20cf5b5d6cb6feee02413994d923d
-SHA256: f0c7223821eeac3685771d43bbf262726c539dd0cf9d2ebf04fd3f7cc5cec34f
+MD5sum: 15caccf5a82c3d2301052e4215cbee45
+SHA1: b6854350c784334801d89d47bc9e86796d4d9a27
+SHA256: 059e296aa2426a36a499e48dac0750951bd21d2f63b96abd509fa3cf5c8d4660
 Section: acadia
 Description: a flat, rounded & fun theme
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -16,14 +16,14 @@ Icon: file://Applications/Cydia.app/acadia.png
 Name: acadia
 
 Package: com.idkjoel.eMinor
-Version: 0.3.3
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: joel johnson <joel.schellenberger@gmail.com>
-Filename: ./debs//com.idkjoel.eminor_0.3.3_iphoneos-arm.deb
-Size: 10067784
-MD5sum: 2e12c79bd44e1a62051683bf6e476a5d
-SHA1: aa87ea298a41729db14fcc3611b4e781c56c1807
-SHA256: 357fe89bbeef26aca49b86b4326ad939176a61ccd7c3633ea7404c3fec9a0224
+Filename: ./debs//com.idkjoel.eminor_0.4_iphoneos-arm.deb
+Size: 10081580
+MD5sum: ac73961efdf60b25a0485ada3e65e700
+SHA1: eabeed03fa2dcaa833815f85420096fc23cbaf9b
+SHA256: 0908edf277815eae87ff5c40da04521eebc1509e1719b2636cccdbe8b5b220bc
 Section: eMinor
 Description: eMinor is a super fun and friendly complete ui theme
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -38,9 +38,9 @@ Maintainer: joel johnson <joel.schellenberger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.idkjoel.pluto_1.0_iphoneos-arm.deb
 Size: 3966394
-MD5sum: fa1d5db054bbcbc01a1977d71cc42adf
-SHA1: f1b60157f05b3ce3e0275849796e01977b9732ad
-SHA256: 41d2c707681477e0ed57fcb65342fa37e9fb041f03f136b568e2a60c993838db
+MD5sum: 78c43bfcb53a9c053a9ab439a5ae8825
+SHA1: 2e534cceb55e0e32e7aaa354a250aff2bd707bb9
+SHA256: c81f81ef9ed53b2bc218a3bd3d7bc3ce0b7ca4082bb5d6f5c836685b74f98ec7
 Section: pluto
 Description: a simple, flat, and dark theme
 Author: joel johnson <joel.schellenberger@gmail.com>
@@ -53,9 +53,9 @@ Architecture: iphoneos-arm
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Filename: ./debs//com.idkjoel.rainbowroad_1.0_iphoneos-arm.deb
 Size: 149586
-MD5sum: 2bbee8dfe566e1f9465c49efa970bc76
-SHA1: 6489a5cd08552bf9b408acdc86f98a77dde84c4a
-SHA256: 05a61f6ccbb8e4e0806d627088dfa8a02d9308b55b6078f78eaf8c284fa9a98e
+MD5sum: 015f6b98d24e2222e58fc80133964fe6
+SHA1: 4ef9e409b52c5661dad836affec7e2d0a1c20fc6
+SHA256: 64978c35ae304be28bf980cd465d2de1d1a6f3a5cdc5f84e0803375384b2876d
 Section: rainbowRoad
 Description: the colourful loader from macOS el capitan: ported to iOS.
 Author: joel schellenberger <joel.schellenberger@gmail.com>
@@ -69,9 +69,9 @@ Essential: Yes
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Filename: ./debs//com.idkjoel.repofiles_1.1_iphoneos-arm.deb
 Size: 15204
-MD5sum: 0988f90f57c65e195e730f893745079c
-SHA1: 80ee4cb665826e8c2c3a58c71505fa6dcfc2b941
-SHA256: 78edc92a1fff64faab1c11dc9035788d3f870bc0fa84d8d792d705075d4b5f50
+MD5sum: 13a2990e75b3a7b1c3b59aacdb2cad58
+SHA1: 4d4723d5a43acd07ba56d70bee2627a40559caf9
+SHA256: 830f5cd0aed358f27b6acda59c9ca1e86b2f8848cbfa43e150ccbc0be3b41fc8
 Section: repoSetup
 Description: setup for installation of repo
 Author: joel schellenberger <joel.schellenberger@gmail.com>
@@ -84,9 +84,9 @@ Architecture: iphoneos-arm
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
 Filename: ./debs//com.idkjoel.smartlock_1.2_iphoneos-arm.deb
 Size: 190842
-MD5sum: 887da6be11aa3c40bc340234de221de5
-SHA1: 62065df9b1aa7c09fcedc87c4e409c78fc3eb698
-SHA256: ed2b990035bd63fa8e63328dc10ea6ba6173956fcf20e2b0a0b85eb444f20881
+MD5sum: c292d3fccd7e052104fd2b0089bae708
+SHA1: cb91f0ebc090aaaf688dadb1907693d21f39f573
+SHA256: eac5c93b9396c4b308e7c08d3b2c40dd2c026ba8bd2826e141545d09dfd79500
 Section: lockHTML
 Description: smartLock lockscreen mod for lockhtml4
 Author: joel schellenberger <joel.schellenberger@gmail.com>
