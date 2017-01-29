@@ -1,0 +1,9 @@
+Package: com.idkjoel.herOS
+Name: herOS
+Version: 1.0
+Architecture: iphoneos-arm
+Description: resources directly from / inspired by the movie her
+Maintainer: joel <joel.schellenberger@gmail.com>
+Author: joel <joel.schellenberger@gmail.com>
+Icon: file://Applications/Cydia.app/her.png
+Section: herOS
