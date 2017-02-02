@@ -1,0 +1,9 @@
+Package: com.idkjoel.jo
+Name: joelOS
+Version: 1.0
+Architecture: iphoneos-arm
+Description: customization pack for myself with my logo
+Maintainer: joel <joel.schellenberger@gmail.com>
+Author: joel <joel.schellenberger@gmail.com>
+Icon: file://Applications/Cydia.app/jo.png
+Section: joelOS
