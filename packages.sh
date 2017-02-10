@@ -6,4 +6,4 @@ dpkg-deb -bZgzip projects/rainbowRoad debs
 dpkg-deb -bZgzip projects/smartLock debs
 dpkg-deb -bZgzip projects/repoSetup debs
 dpkg-deb -bZgzip projects/herOS debs
-dpkg-deb -bZgzip projects/idkjoel debs
+dpkg-deb -bZgzip projects/jOS debs
