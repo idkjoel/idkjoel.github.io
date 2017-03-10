@@ -1,6 +1,6 @@
 Package: com.idkjoel.repoFiles
 Name: repoSetup
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Description: setup for installation of repo
 Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
