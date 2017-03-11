@@ -3,8 +3,9 @@ Name: tesOS
 Version: 1.2.9
 Architecture: iphoneos-arm
 Description: setup for installation of repo
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS
+Icon: file://Applications/Cydia.app/Sections/tesOS.png
 Section: tesOS
 Essential: Yes

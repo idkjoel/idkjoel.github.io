@@ -3,8 +3,8 @@ Name: miOS
 Version: 0.4.3
 Architecture: iphoneos-arm
 Description: eMinor is a fun & friendly theme who's name will probably change
-Maintainer: joel schellenberger <joel@idkjoel.co>
-Author: joel johnson <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS
-Icon: file://Applications/Cydia.app/miOS.png
-Section: eMinor
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS/splash.html
+Maintainer: joel <joel@idkjoel.co>
+Author: joel <joel@idkjoel.co>
+Icon: file://Applications/Cydia.app/Sections/miOS.png
+Section: miOS

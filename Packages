@@ -1,16 +1,15 @@
 Package: com.idkjoel.acOS
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: joel <joel.schellenberger@gmail.com>
-Depends: winterboard
+Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.acos_1.1_iphoneos-arm.deb
-Size: 1316150
-MD5sum: b4b2077dfb1deb4aa0c317f54e0121c8
-SHA1: ddf60c05825f011472dc62ce1cbf87693cea7d51
-SHA256: 90d190fa257f07cb33edb7e089eb62bc5286e7630b4c2c84ad5484e50aee2448
+Size: 1316120
+MD5sum: 432c1f4b6f1c6e6270e1d13fbf459462
+SHA1: 962f4bd10be4594267f94f0b0b0425da36526640
+SHA256: bfca0a349677af22864e4a7a3e4366d3450e8f741ef67ab8e6cbcc94b3c598a0
 Section: acOS
 Description: flat fun theme including both icons and ui tweaks
-Author: joel <joel.schellenberger@gmail.com>
+Author: joel <joel@idkjoel.co>
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acOS/splash.html
 Icon: file://Applications/Cydia.app/Sections/acOS.png
 Name: acOS
@@ -20,15 +19,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.boos_1.0_iphoneos-arm.deb
-Size: 149602
-MD5sum: 8d37e3803e5efac7c69565a75dd56a75
-SHA1: 453025ec3977ae0a14fe9f53607a350b69fb9df5
-SHA256: 06348f146adb28d92d2884df62907fc8fec0bc9a278e272af06a7aee19b4a987
+Size: 149614
+MD5sum: e80d6a356e3ff8f010fc9a9690c74d32
+SHA1: 6194155223e59df9f38750c796c539e36968a30f
+SHA256: c9d8a967ba8180bf7442a094a9180af5cdf67c6ef84915ba42d71344b07de4cb
 Section: boOS
 Description: the colourful loader from macOS el capitan: ported to iOS.
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.boOS
-Icon: file://Applications/Cydia.app/boOS.png
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.boOS/splash.html
+Icon: file://Applications/Cydia.app/Sections/boOS.png
 Name: boOS
 
 Package: com.idkjoel.herOS
@@ -36,15 +35,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.heros_1.0_iphoneos-arm.deb
-Size: 7030
-MD5sum: ead5ec0d7ba7885f948b3eea33c65642
-SHA1: 5308884477058c83951532753dfe80d0a8a138a3
-SHA256: 61bbbdf99feac4908db3b9a812fb49d7bd50938256d6df5e7f3b43f1808dc320
+Size: 7042
+MD5sum: 8e8a63cc673ce6ccf803e1dd0c28e2d4
+SHA1: 73c7880856949bdf11625692839cd52d86fe4ca3
+SHA256: b1f96fd75b14694904154482525c8836ee888eda26ec96d3e700b272795e29dc
 Section: herOS
 Description: resources directly from / inspired by the movie her
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.herOS
-Icon: file://Applications/Cydia.app/herOS.png
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.herOS/splash.html
+Icon: file://Applications/Cydia.app/Sections/herOS.png
 Name: herOS
 
 Package: com.idkjoel.jOS
@@ -52,31 +51,31 @@ Version: 1.8
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.jos_1.8_iphoneos-arm.deb
-Size: 4527160
-MD5sum: 394401f11d582b9d5db642f3e36fe617
-SHA1: 4dfb49aeb8f00ca4ccbcec3ff1a4f243a87c5772
-SHA256: 02af68f92e0ef03b3b30e3b38134b02d40641fa2752ff9c5ee7aa4c9e7d9650f
+Size: 4527172
+MD5sum: 2e19b1da29ad013e672ff23653726034
+SHA1: da31cee7cd0412cf9e5075113ea136a7677ec14b
+SHA256: 3274854c7ba783d8d071067108c29124bcc795e5b686938fe1d0101fefa605a7
 Section: jOS
 Description: customization pack for myself for testing and stuff
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.jOS
-Icon: file://Applications/Cydia.app/jOS.png
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.jOS/splash.html
+Icon: file://Applications/Cydia.app/Sections/jOS.png
 Name: jOS
 
 Package: com.idkjoel.miOS
 Version: 0.4.3
 Architecture: iphoneos-arm
-Maintainer: joel schellenberger <joel@idkjoel.co>
+Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.mios_0.4.3_iphoneos-arm.deb
-Size: 10128422
-MD5sum: b7d40a6a2d0de658a1e004e9a5bb9f7a
-SHA1: 7100f0b930e9f41580c7ccbba96429867f66611a
-SHA256: c500f2a5ee4e8f65cba1c69f680f987add2008e79fead65f6a15eaa72a0970cc
-Section: eMinor
+Size: 10128416
+MD5sum: 331c90e2d32d2e7c114a28aa05b80a39
+SHA1: 52c548266efe3035358ea8a8314f9f397f1012ed
+SHA256: 9f3b610bc1d2abaa44f68ce44858b6e00cbe8dd8e01db9075b7b760efeb9ebd7
+Section: miOS
 Description: eMinor is a fun & friendly theme who's name will probably change
-Author: joel johnson <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS
-Icon: file://Applications/Cydia.app/miOS.png
+Author: joel <joel@idkjoel.co>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS/splash.html
+Icon: file://Applications/Cydia.app/Sections/miOS.png
 Name: miOS
 
 Package: com.idkjoel.plutOS
@@ -84,15 +83,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.plutos_1.0_iphoneos-arm.deb
-Size: 3966202
-MD5sum: ea12f5fa41a1acc1c0d00bfb20e01c67
-SHA1: 3e7fd05ce7bbbbf15cda33becaf4944629665d26
-SHA256: 6d56b93ff44566bf32dc9e0963bf4bbb1ba98da2748c581cd53acc3014788776
+Size: 3966212
+MD5sum: 61b21f8921d84151e4324a7fc77466f6
+SHA1: 41e637cf55028669e9ce5c8545a121888601a63a
+SHA256: 17eb40188511767f694cfe88f3453bad492c17ee43e3ee11f25f72faf8fa96b2
 Section: pluto
 Description: a simple, flat, and dark theme
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.plutOS
-Icon: file://Applications/Cydia.app/pluto.png
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.plutOS/splash.html
+Icon: file://Applications/Cydia.app/Sections/pluto.png
 Name: plutOS
 
 Package: com.idkjoel.tesOS
@@ -101,13 +100,14 @@ Architecture: iphoneos-arm
 Essential: Yes
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.tesos_1.2.9_iphoneos-arm.deb
-Size: 109294
-MD5sum: 2633053651c1e07818315cca116d0e7d
-SHA1: e4a26ecbbcd386e7963685f0107887ed0bcd9b81
-SHA256: 955b713f8988df50ce358132872119aa3822269e5d91e3fa7c30263084a46c3e
+Size: 109334
+MD5sum: 88f24ccecaaf9e15354774732ca78c58
+SHA1: 2a2413158a966db0214c70254673ce5ceb622332
+SHA256: 7954d363a175af4c26c1987c579a28e70598160aaa01421a406667814904d4b5
 Section: tesOS
 Description: setup for installation of repo
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS/splash.html
+Icon: file://Applications/Cydia.app/Sections/tesOS.png
 Name: tesOS
 

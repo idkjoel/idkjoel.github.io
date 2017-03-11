@@ -3,8 +3,8 @@ Name: herOS
 Version: 1.0
 Architecture: iphoneos-arm
 Description: resources directly from / inspired by the movie her
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.herOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.herOS
-Icon: file://Applications/Cydia.app/herOS.png
+Icon: file://Applications/Cydia.app/Sections/herOS.png
 Section: herOS

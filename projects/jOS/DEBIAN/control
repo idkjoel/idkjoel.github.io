@@ -3,8 +3,8 @@ Name: jOS
 Version: 1.8
 Architecture: iphoneos-arm
 Description: customization pack for myself for testing and stuff
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.jOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.jOS
-Icon: file://Applications/Cydia.app/jOS.png
+Icon: file://Applications/Cydia.app/Sections/jOS.png
 Section: jOS

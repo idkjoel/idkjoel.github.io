@@ -1,11 +1,10 @@
 Package: com.idkjoel.acOS
 Name: acOS
-Depends: winterboard
 Version: 1.1
 Architecture: iphoneos-arm
 Description: flat fun theme including both icons and ui tweaks
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acOS/splash.html
-Maintainer: joel <joel.schellenberger@gmail.com>
-Author: joel <joel.schellenberger@gmail.com>
+Maintainer: joel <joel@idkjoel.co>
+Author: joel <joel@idkjoel.co>
 Icon: file://Applications/Cydia.app/Sections/acOS.png
 Section: acOS
