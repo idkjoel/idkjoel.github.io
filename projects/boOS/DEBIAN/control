@@ -1,0 +1,9 @@
+Package: com.idkjoel.rainbowRoad
+Name: rainbowRoad
+Version: 1.0
+Architecture: iphoneos-arm
+Description: the colourful loader from macOS el capitan: ported to iOS.
+Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
+Author: joel schellenberger <joel.schellenberger@gmail.com>
+Icon: file://Applications/Cydia.app/rainbowRoad.png
+Section: rainbowRoad

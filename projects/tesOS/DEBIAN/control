@@ -1,0 +1,10 @@
+Package: com.idkjoel.repoFiles
+Name: repoSetup
+Version: 1.2.8
+Architecture: iphoneos-arm
+Description: setup for installation of repo
+Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
+Author: joel schellenberger <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.repoSetup
+Section: repoSetup
+Essential: Yes

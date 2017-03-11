@@ -1,0 +1,10 @@
+Package: com.idkjoel.eMinor
+Name: eMinor
+Version: 0.4.3
+Architecture: iphoneos-arm
+Description: eMinor is a fun & friendly theme who's name will probably change
+Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
+Author: joel johnson <joel.schellenberger@gmail.com>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.eMinor
+Icon: file://Applications/Cydia.app/eMinor.png
+Section: eMinor
