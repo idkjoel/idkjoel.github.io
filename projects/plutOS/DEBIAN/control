@@ -1,10 +1,10 @@
-Package: com.idkjoel.pluto
-Name: pluto
-Depends: winterboard
+Package: com.idkjoel.plutOS
+Name: plutOS
 Version: 1.0
 Architecture: iphoneos-arm
 Description: a simple, flat, and dark theme
-Maintainer: joel johnson <joel.schellenberger@gmail.com>
-Author: joel johnson <joel.schellenberger@gmail.com>
+Maintainer: joel <joel@idkjoel.co>
+Author: joel <joel@idkjoel.co>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.plutOS
 Icon: file://Applications/Cydia.app/pluto.png
 Section: pluto

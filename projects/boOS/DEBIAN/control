@@ -1,9 +1,10 @@
-Package: com.idkjoel.rainbowRoad
-Name: rainbowRoad
+Package: com.idkjoel.boOS
+Name: boOS
 Version: 1.0
 Architecture: iphoneos-arm
 Description: the colourful loader from macOS el capitan: ported to iOS.
-Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
-Author: joel schellenberger <joel.schellenberger@gmail.com>
-Icon: file://Applications/Cydia.app/rainbowRoad.png
-Section: rainbowRoad
+Maintainer: joel <joel@idkjoel.co>
+Author: joel <joel@idkjoel.co>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.boOS
+Icon: file://Applications/Cydia.app/boOS.png
+Section: boOS

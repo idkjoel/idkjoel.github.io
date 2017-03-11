@@ -1,10 +1,10 @@
-Package: com.idkjoel.repoFiles
-Name: repoSetup
-Version: 1.2.8
+Package: com.idkjoel.tesOS
+Name: tesOS
+Version: 1.2.9
 Architecture: iphoneos-arm
 Description: setup for installation of repo
-Maintainer: joel schellenberger <joel.schellenberger@gmail.com>
-Author: joel schellenberger <joel.schellenberger@gmail.com>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.repoSetup
-Section: repoSetup
+Maintainer: joel <joel@idkjoel.co>
+Author: joel <joel@idkjoel.co>
+Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS
+Section: tesOS
 Essential: Yes
