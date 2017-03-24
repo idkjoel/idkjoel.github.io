@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.acos_1.1_iphoneos-arm.deb
 Size: 1316120
-MD5sum: 8cc4b6114df0531fd3878c3826cfd035
-SHA1: 2731a12a9f1ee194dfbbe6052e62980a95abf32e
-SHA256: 21a8cb17c31be6a3b7e4e61ce11c35b40e07efe264d4e9709a55f7abf6134206
+MD5sum: fad41d126f9b32dd788651c65c38e8ad
+SHA1: cd470caf870f6a65baed811d9229e879e787a550
+SHA256: 005b4826f207a7c30ef7c90c45129c0c7058d244b5c0fd35857ed345115482ab
 Section: acOS
 Description: flat fun theme including both icons and ui tweaks
 Author: joel <joel@idkjoel.co>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.boos_1.0_iphoneos-arm.deb
 Size: 149614
-MD5sum: f2d2577cac71379023b085af55fadff7
-SHA1: 240c268dcd87a4c18bf22060f239fa347e54eebd
-SHA256: 46b0a30964dd8088d5dd43940eaa1cf4bf6f2d0784145958e37031a828f94009
+MD5sum: ebf7b7739e353e29b7ca454b4e998d0c
+SHA1: 5686eb35b648372c9c0de9c799f084041a84dfb6
+SHA256: 9366fa9d477a870f6bdb7dc83ba10d0bf37933617a313dda031c0e305688f13f
 Section: boOS
 Description: the colourful loader from macOS el capitan: ported to iOS.
 Author: joel <joel@idkjoel.co>
@@ -36,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.heros_1.0_iphoneos-arm.deb
 Size: 7042
-MD5sum: 198456c8b2fd4b94a74466baba748feb
-SHA1: e6f37e6870dbc67061511c03d453cace8eeeed9f
-SHA256: 5200b8908e043a8774bab534cbcf08f0c339e77a6a73e51a8590dc64ba98591d
+MD5sum: 61af1221413efd311f09168a617586aa
+SHA1: a8f4a5cc12f4e1739b8460d925536867f4b398e2
+SHA256: 621a09f5d111307ab45136334b215f79a58f9635ea7eab278b1a5813f1ec0268
 Section: herOS
 Description: resources directly from / inspired by the movie her
 Author: joel <joel@idkjoel.co>
@@ -52,9 +52,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.jos_1.8_iphoneos-arm.deb
 Size: 4527172
-MD5sum: 01f8c3668b6e2eef4f1c6ba0da6261ee
-SHA1: 3d776d608c02039502159f6e2b4f8753fca8d74a
-SHA256: f6c0f6f54b5528afbd2f0bd7a939f1b3aacfc0177026432bb2601de810f2e303
+MD5sum: c3a306c2785ad7d39c53f2dc260ff260
+SHA1: 17edbba4408b5cf9ed0ef9d005b14ecd1c4e009d
+SHA256: 67db89dcfcc6b5d40d76630192342f56ae833bc2823513da739f2fb2927d1ec6
 Section: jOS
 Description: customization pack for myself for testing and stuff
 Author: joel <joel@idkjoel.co>
@@ -68,9 +68,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.mios_0.4.3_iphoneos-arm.deb
 Size: 10128416
-MD5sum: d1ffd893ba23a0509a2e42e18f59698a
-SHA1: 374d2ad53c9f078fa812d9b98660ad793816828e
-SHA256: e64c5b214d54e40c8569c640ebb610cd602fd9cfd0c13adc8d602269ee630b68
+MD5sum: 0c063eb1815abcae120ad7ee6854a0c2
+SHA1: fb62a736c1e8396ce51d00a71e08f95d34537d3b
+SHA256: 9779a83c29d2938a6020abff4b6b86ace3d2767a85095fba7c41ca5e41541f44
 Section: miOS
 Description: eMinor is a fun & friendly theme who's name will probably change
 Author: joel <joel@idkjoel.co>
@@ -84,9 +84,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.plutos_1.0_iphoneos-arm.deb
 Size: 3966218
-MD5sum: 4cbe1287ecc427ff672843a0608551fa
-SHA1: 2596ea81ca22c1ec2327fc50628bbd6371625f21
-SHA256: 279f147fc23c2e65ab65c09d94b209be411c0e8964d339daff0acaa93855025c
+MD5sum: 07137aaef3d04799cfd2c4259a1a131f
+SHA1: 9922e6215dd7654a5e4b6da257500cd454fdc24f
+SHA256: b3df78924e3b73df121d461432b19f2200bb81065af875e12dcc8c4dff10a242
 Section: plutOS
 Description: a simple, flat, and dark theme
 Author: joel <joel@idkjoel.co>
@@ -101,9 +101,9 @@ Essential: Yes
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.tesos_1.2.9_iphoneos-arm.deb
 Size: 109338
-MD5sum: 3be9ac2eabb7d54825bf45aad9785144
-SHA1: e4b128d59b34a21052b4a5588bf5bf357239aaa0
-SHA256: c97a89dc59aa242d3836bd22c7fd053b9bfb93191a0daf8b376579fb8295e8bb
+MD5sum: d24b409577fc9f7046c1fda51ffd0ff0
+SHA1: 7f06caf2e5b294235224fb98c118537db9e7e33f
+SHA256: 92e2d93be7bcceb45b7f80c3b1a4379bd17ecb7111f4c2df239ae515dc7a9ee6
 Section: tesOS
 Description: setup for installation of repo
 Author: joel <joel@idkjoel.co>
