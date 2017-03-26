@@ -1,8 +1,8 @@
 Package: com.idkjoel.miOS
 Name: miOS
-Version: 0.4.3
+Version: 0.4.4
 Architecture: iphoneos-arm
-Description: eMinor is a fun & friendly theme who's name will probably change
+Description: miOS 
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
