@@ -1,8 +1,8 @@
 Package: com.idkjoel.miOS
 Name: miOS
-Version: 0.4.4
+Version: 0.4.4-1
 Architecture: iphoneos-arm
-Description: miOS 
+Description: miOS
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
