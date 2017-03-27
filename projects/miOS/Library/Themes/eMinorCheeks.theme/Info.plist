@@ -4,5 +4,11 @@
 <dict>
 	<key>IB-MaskIcons</key>
 	<false/>
+	<key>CalendarIconDateSettings</key>
+		<key>FontSize</key>
+		<integer>0</integer>
+	<key>CalendarIconDaySettings</key>
+		<key>FontSize</key>
+		<integer>0</integer>
 </dict>
 </plist>
