@@ -13,11 +13,11 @@
 	</array>
 	<key>Rows</key>
 	<array>
-		<integer>30</integer>
-		<integer>80</integer>
-		<integer>130</integer>
-		<integer>180</integer>
-		<integer>230</integer>
+		<integer>40</integer>
+		<integer>90</integer>
+		<integer>140</integer>
+		<integer>190</integer>
+		<integer>240</integer>
 	</array>
 </dict>
 </plist>
