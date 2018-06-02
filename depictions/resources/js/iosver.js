@@ -11,7 +11,7 @@ ver = iOSversion();
 if (ver[0] >= 8) {
 	document.getElementById('version').innerHTML='<br><p>This version of iOS is supported!</p><br>';
 }
-if (ver[0] >11.4) {
+if (ver[0] >= 12) {
 	document.getElementById('version').innerHTML='<br><p>This version of iOS is not yet supported.</p><br>';
 }
 else {
