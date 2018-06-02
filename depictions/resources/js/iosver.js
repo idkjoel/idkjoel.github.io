@@ -9,11 +9,11 @@ function iOSversion() {
 }
 ver = iOSversion();
 if (ver[0] >= 8) {
-	document.getElementById('version').innerHTML='<align=left><p>This version of iOS is supported!</p>';
+	document.getElementById('version').innerHTML='<br><p>This version of iOS is supported!</p><br>';
 }
 if (ver[0] >11.4) {
-	document.getElementById('version').innerHTML='<align=left><p>This version of iOS is not yet supported.</p>';
+	document.getElementById('version').innerHTML='<br><p>This version of iOS is not yet supported.</p><br>';
 }
 else {
-	document.getElementById('version').innerHTML='<align=left><p>There are no plans to support this version of iOS.</p>';
+	document.getElementById('version').innerHTML='<br><p>There are no plans to support this version of iOS.</p><br>';
 }
