@@ -9,11 +9,11 @@ function iOSversion() {
 }
 ver = iOSversion();
 if (ver[0] >= 8) {
-	document.getElementById('version').innerHTML='<p><align=left>😊 you can install this package on your device</p>';
+	document.getElementById('version').innerHTML='<p><align=left>This package is supported for your version of iOS.</p>';
 }
-if (ver[0] >10) {
-	document.getElementById('version').innerHTML='<p><align=left>😕 your iOS version is not yet supported</p>';
+if (ver[0] >12) {
+	document.getElementById('version').innerHTML='<p><align=left>This package is not yet supported for your version of iOS.</p>';
 }
 else {
-	document.getElementById('version').innerHTML='<p><align=left>😔 your iOS version is not and will not be supported </p>';
+	document.getElementById('version').innerHTML='<p><align=left>There are currently no plans to support this version of iOS.</p>';
 }
