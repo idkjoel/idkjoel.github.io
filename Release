@@ -1,9 +1,9 @@
 Origin: idkjoel's repo
 Label: repo.idkjoel.co
 Suite: stable
-Version: 0.8
+Version: 0.9
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: i make things!!
+Description: Trying my best to make iOS not suck.
 Icon: file://CydiaIcon.png
