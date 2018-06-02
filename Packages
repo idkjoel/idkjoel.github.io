@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.acos_1.1_iphoneos-arm.deb
 Size: 1316146
-MD5sum: 421cc9f722c8b777b097eebf7fe6dde9
-SHA1: ff1e26136a33672dd416b7d17f0f27e86aa8b9ab
-SHA256: c43b8c9be8ce329f4f6ed1114df2a0daff2a0d805ff7db5b718701eb119028ac
+MD5sum: a3478705ed988d5290860d26bd768a23
+SHA1: 6c38cde927f640f72d7615385cfa9e7f1c219259
+SHA256: 8d8833fcb8e5bd9ffc8871a51226a0a2f3a355eeac4f7e0dc6eac3994b6d08cc
 Section: acOS
 Description: flat fun theme including both icons and ui tweaks
 Author: joel <joel@idkjoel.co>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.boos_1.0_iphoneos-arm.deb
 Size: 149614
-MD5sum: 56b3169e00a5f0aadf4fbf3cb8dee306
-SHA1: fcabca5df98a217f01352ef974ca47fc58326c8c
-SHA256: 836ed5ef8d1c1a4e56d2d6180b6358f04cd260af9ce23a3a931909d737175787
+MD5sum: 142a738ee9bb52e7e1395446cefc3841
+SHA1: a5c5c235d8a9e13030a27a801b93ebc1d1949e6d
+SHA256: 5232891f89a21047ef6212ca0053f09583a7913709c87579374ef44e928cc14a
 Section: boOS
 Description: the colourful loader from macOS el capitan: ported to iOS.
 Author: joel <joel@idkjoel.co>
@@ -36,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.heros_1.0_iphoneos-arm.deb
 Size: 7042
-MD5sum: 937b87378e09efe5a426f107df4f58a3
-SHA1: c080d67053cc104bb0510f8c05ba1a4311da8131
-SHA256: 21598db6fa793794e7d548fd17b42bb7eb396519e89567e06f0436b3416d27e3
+MD5sum: df22f734a217aed28f3cee5b19d31534
+SHA1: 67980ac0d884bcb5735501f6d5f995f2677ac993
+SHA256: 865a50b63faba89468229192dee5be85f69bc91bb5ca7f5b13ba86653874e9e5
 Section: herOS
 Description: resources directly from / inspired by the movie her
 Author: joel <joel@idkjoel.co>
@@ -51,10 +51,10 @@ Version: 1.8
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.jos_1.8_iphoneos-arm.deb
-Size: 112814
-MD5sum: 3b6e4215c2b8a4777de236ce338f01db
-SHA1: 42033eafa8cbe8d397034db3840ebc5ffd305ed1
-SHA256: e3b12d5119dd878595475ce7b2314dfd6f339ed050b7a08bc3dc3f83f5e1a189
+Size: 4527186
+MD5sum: d3e891ed735977f4849075f4757cf8a6
+SHA1: f4bb9cad5e35a013585a0ad6c08d863b3aaeda6e
+SHA256: c63847c8b7a9e865b3072fb4186e0273c57a61668cfa2c80017ddea5e375d803
 Section: jOS
 Description: customization pack for myself for testing and stuff
 Author: joel <joel@idkjoel.co>
@@ -65,15 +65,15 @@ Name: jOS
 Package: com.idkjoel.miOS
 Version: 0.6.2
 Architecture: iphoneos-arm
-Maintainer: joel <joel@idkjoel.co>
+Maintainer: idkjoel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.mios_0.6.2_iphoneos-arm.deb
-Size: 10126434
-MD5sum: be659b7d3e4d5c76a3e7c9028d98d951
-SHA1: 9c79765aa446d52a101d4abe76e90643f7109a31
-SHA256: ee8719785feca2f76314231449719144b0d92d077378e6de719d76c6acf6c730
+Size: 10126562
+MD5sum: 9bc0e0f5ca222d01835ddde1736096ac
+SHA1: c39fd4b2f573661edb078b2362a9fe5d9b465684
+SHA256: 2743ed67ca3421c74750bf9560d00364afd611f6b0bf34d5eb69ec054d94f6a6
 Section: miOS
 Description: miOS
-Author: joel <joel@idkjoel.co>
+Author: idkjoel <joel@idkjoel.co>
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS/splash.html
 Icon: file://Applications/Cydia.app/Sections/miOS.png
 Name: miOS
@@ -84,9 +84,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.plutos_1.0_iphoneos-arm.deb
 Size: 3966238
-MD5sum: 3e42139679611d9f81deb56a67a1a5cf
-SHA1: 64dd0beec023f5e450f1f63fd23831a75064271d
-SHA256: ca58202a70a64a1655210ec78e10530588e8098a4a89b13caec889e49e3301a0
+MD5sum: 4c8827d87c6b1e62e5cdf58e79cb4647
+SHA1: 40761aa0dce0b90a4a11ec971cc9b2dbb15ad7af
+SHA256: dc95d257adda2d08fe1b380bf4dac2ca51f90ccf7458d78692cf6b288e0bc2ef
 Section: plutOS
 Description: a simple, flat, and dark theme
 Author: joel <joel@idkjoel.co>
@@ -101,9 +101,9 @@ Essential: Yes
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.tesos_1.2.9_iphoneos-arm.deb
 Size: 109338
-MD5sum: 7f820a335a5d3f39655c152c71868532
-SHA1: 7b66748ad43192a9ab0d5df0cf78f923afe53829
-SHA256: 0e5eab988db3a533ebd316d65e0093b7d715e59aec4343dc952d429e890691a3
+MD5sum: 17344729277b899e4bb0b3ea63a59b75
+SHA1: 08337e3a7854cd68a326d995431ef674c14efb28
+SHA256: 45c2be48724562606427afd12af320ed0ac08e3be256b871853822cb295fa152
 Section: tesOS
 Description: setup for installation of repo
 Author: joel <joel@idkjoel.co>
