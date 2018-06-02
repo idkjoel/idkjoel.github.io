@@ -1,7 +1,7 @@
 Origin: idkjoel's repo
 Label: repo.idkjoel.co
 Suite: stable
-Version: 0.7-1
+Version: 0.7-2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
