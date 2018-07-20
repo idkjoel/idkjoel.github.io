@@ -1,6 +1,6 @@
 Package: com.idkjoel.tesOS
 Name: tesOS
-Version: 1.2.9
+Version: 1.3
 Architecture: iphoneos-arm
 Description: setup for installation of repo
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS/splash.html
