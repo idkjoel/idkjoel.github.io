@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.acos_1.1_iphoneos-arm.deb
 Size: 1515850
-MD5sum: 3d01bf87c6feff2a613e7889cb6e79ce
-SHA1: 9272e0a2ff914d803f3797af7a88f60433c36ca3
-SHA256: 546161389abf76d1f5ec4eb8b8db5f3f138b455ccdf6fffa267b74eb35633d68
+MD5sum: 7dd5ce1ee811b0f33cb408122e0deb5d
+SHA1: 7076d36e1ad4139c352b7868b0066b2273803c57
+SHA256: 7ac84a09344fb66ea24ef8305a3259fdaef1e3ae0e0e824654f464af90e4052a
 Section: acOS
 Description: flat fun theme including both icons and ui tweaks
 Author: joel <joel@idkjoel.co>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.boos_1.0_iphoneos-arm.deb
 Size: 149846
-MD5sum: 3af4085d5771bd4e65ff3ee229593cdc
-SHA1: 50bf9819fdbaaebe3a32621d60ab1a5e7b511e4e
-SHA256: a603ba5b706f0c2ff66d093bdb20e7ced8972545298c2306beb3d7fe572fae2a
+MD5sum: 7554d9b7229a429c40c24f17d1b01513
+SHA1: ce9b23e526591c7ff2f220f546b46deaf4347ad8
+SHA256: 1cd6f2707258e9809511aeeb0fa445baf09af4d077d5780eaed32fd4af1b67ec
 Section: boOS
 Description: the colourful loader from macOS el capitan: ported to iOS.
 Author: joel <joel@idkjoel.co>
@@ -36,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.heros_1.0_iphoneos-arm.deb
 Size: 7052
-MD5sum: a3a46b2d12e865a68c08262992f84c87
-SHA1: 4ce13a179c8491dd2aa65439f8b14336d461406d
-SHA256: 83de87dd76d14f85dde030ae52dc9a23d3281dd3a63534851869e9126aa60f3d
+MD5sum: d784f8f05460a9b37931d5b8a12dc260
+SHA1: 38b963f57b35a2dba76ccdddda9158f93bae502e
+SHA256: 5e11bf07e26f16bf0f9e3e4068267f3c6f595dec8e6b93b9a01beb2b313846c8
 Section: herOS
 Description: resources directly from / inspired by the movie her
 Author: joel <joel@idkjoel.co>
@@ -52,9 +52,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.jos_1.8_iphoneos-arm.deb
 Size: 125624
-MD5sum: bbdd27f8d2d13bb55e6eb33517715782
-SHA1: 19bd35e582ebe34dc57734f5307dc4672ca56c06
-SHA256: 7fd006b4a70cefacd3ab0ab85d77ce7261f2e8b9662aeb6822a62d9dc1b1bc85
+MD5sum: 5fed7cd5aa18d522900f7aeed7593f0f
+SHA1: be28c41a6058276fd9bbd37975cd3a3eff1bfb54
+SHA256: e606231bdaa3e0435b79df52ec2db37265407dd8bf6a8f642a16b973f9e4103c
 Section: jOS
 Description: customization pack for myself for testing and stuff
 Author: joel <joel@idkjoel.co>
@@ -67,10 +67,10 @@ Version: 0.6.5
 Architecture: iphoneos-arm
 Maintainer: idkjoel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.mios_0.6.5_iphoneos-arm.deb
-Size: 10166066
-MD5sum: 364a1eb6401e62355670f0a1c8e5237a
-SHA1: 2d4e73edadff210f0acb214b5c9df0ac01cb6491
-SHA256: 2823dbaf2d51a65cc97f9c5a7e95a8654a20f885f31ef0cfe9ef93c72f47d16e
+Size: 10162850
+MD5sum: 4448274589294e2c037a03e8e35ef068
+SHA1: 1f099e8006307c0bdd3a76bb1229c8f8646757e6
+SHA256: 04729aa611c994a790c78f687d1f8c1cdda30b987a3756a790d5c46371ce9f86
 Section: miOS
 Description: miOS
 Author: idkjoel <joel@idkjoel.co>
@@ -84,9 +84,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.plutos_1.0_iphoneos-arm.deb
 Size: 4020540
-MD5sum: 464a79a599ea8fa574fb77c6c475f3d6
-SHA1: 233b3d6f2c2711db7432804fd781f4f9d64e3629
-SHA256: 2f076c2c514e407fc9af1d2eb38ea19d5213d5928d65adfb4bff559d16d5037f
+MD5sum: fb37fcffada529988147ad093c5d5d0f
+SHA1: d2b77184687dc4302db685f42623b7356b933b42
+SHA256: 35f237cc4b8922294124f24d3743888a1593dc9451dd35ce69afce48c27fe1fe
 Section: plutOS
 Description: a simple, flat, and dark theme
 Author: joel <joel@idkjoel.co>
@@ -101,9 +101,9 @@ Essential: Yes
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs//com.idkjoel.tesos_1.3_iphoneos-arm.deb
 Size: 99940
-MD5sum: 3f56db1dff7ef0c614c77b50657fe9d0
-SHA1: b87b0ea1188651509bdee6ec0edbfd2602905660
-SHA256: 13f4f91e880eb501419e2e293bf15c7ee6722dbe838936e8c413bf087e50d77f
+MD5sum: a6f163b8c9e752895f13287b8537dd34
+SHA1: c65691389c17ac1548aae79b30add8243d8e0ac9
+SHA256: 8806a0f593c53be39e9806cd821bdc27e1d7f2c9f25158f365c017d6a8b8d7a5
 Section: tesOS
 Description: setup for installation of repo
 Author: joel <joel@idkjoel.co>
