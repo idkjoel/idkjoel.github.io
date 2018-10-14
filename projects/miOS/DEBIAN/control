@@ -4,7 +4,6 @@ Version: 0.6.5-1
 Architecture: iphoneos-arm
 Description: miOS
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.miOS/splash.html
-Maintainer: idkjoel <joel@idkjoel.co>
 Author: idkjoel <joel@idkjoel.co>
 Icon: file://Applications/Cydia.app/Sections/miOS.png
 Section: miOS

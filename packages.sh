@@ -6,3 +6,4 @@ dpkg-deb -bZgzip projects/boOS debs
 dpkg-deb -bZgzip projects/tesOS debs
 dpkg-deb -bZgzip projects/herOS debs
 dpkg-deb -bZgzip projects/jOS debs
+dpkg-deb -bZgzip projects/layouts debs
