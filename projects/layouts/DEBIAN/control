@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: Adjustable layouts for Springboard.
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.layouts/splash.html
 Author: Joel Schellenberger
-Icon: file://Applications/Cydia.app/Sections/miOS.png
+Icon: file://Applications/Cydia.app/Sections/icon_packages.png
 Section: Tweaks
 Pre-Depends: mobilesubstrate, gsc.armv7
 Depends: firmware (>= 4.3), preferenceloader, com.chpwn.iconsupport (>> 1.7.7)

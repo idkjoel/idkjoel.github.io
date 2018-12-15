@@ -6,5 +6,5 @@ Description: customization pack for myself for testing and stuff
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.jOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
-Icon: file://Applications/Cydia.app/Sections/jOS.png
-Section: jOS
+Icon: file://Applications/Cydia.app/Sections/icon_packages.png
+Section: Infrastructure

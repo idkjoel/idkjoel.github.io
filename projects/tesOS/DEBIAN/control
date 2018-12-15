@@ -6,6 +6,6 @@ Description: setup for installation of repo
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
-Icon: file://Applications/Cydia.app/Sections/tesOS.png
-Section: tesOS
+Icon: file://Applications/Cydia.app/Sections/icon_packages.png
+Section: Infrastructure
 Essential: Yes

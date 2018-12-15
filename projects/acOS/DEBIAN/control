@@ -1,10 +1,10 @@
 Package: com.idkjoel.acOS
 Name: acOS
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
-Description: flat fun theme including both icons and ui tweaks
+Description: Flat, fun theme including icon and UI tweaks.
 Depiction: http://idkjoel.github.io/depictions/com.idkjoel.acOS/splash.html
 Maintainer: joel <joel@idkjoel.co>
 Author: joel <joel@idkjoel.co>
-Icon: file://Applications/Cydia.app/Sections/acOS.png
-Section: acOS
+Icon: file://Applications/Cydia.app/Sections/icon_packages.png
+Section: Themes
