@@ -2,11 +2,11 @@ Package: com.idkjoel.acOS
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
-Filename: ./debs/com.idkjoel.acos_1.1.1_iphoneos-arm.deb
-Size: 1316084
-MD5sum: dd420d33f55be9d5b3f5a2a9f95ce3ca
-SHA1: 20d28a49808f2cf7e329978a6ce5f8bf32f6cad2
-SHA256: 0feb96d5720a2a47dd0ca1782241b931c6924dd1038ea5788924ccc853f540f1
+Filename: ./debs//com.idkjoel.acos_1.1.1_iphoneos-arm.deb
+Size: 2009770
+MD5sum: bebda70663fef5602024fa582f028bba
+SHA1: 0f36223818442a383c263bef4ec200c4f323bfe0
+SHA256: c6e099d91f2c21cd41948e0f2e96a35ffe320ad41eff65c072982067d81b52f3
 Section: Themes
 Description: Flat, fun theme including icon and UI tweaks.
 Author: joel <joel@idkjoel.co>
@@ -18,11 +18,11 @@ Package: com.idkjoel.jOS
 Version: 1.8
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
-Filename: ./debs/com.idkjoel.jos_1.8_iphoneos-arm.deb
-Size: 4527222
-MD5sum: b65aabc39ec456af1ab8a1bdab2087eb
-SHA1: b2382a5b694ee5cc783f9db7406b09b8d7fbdc98
-SHA256: b40354145ea812f02e1810efd9893fea89d93a5a38b37fd434626bff4ae36ad7
+Filename: ./debs//com.idkjoel.jos_1.8_iphoneos-arm.deb
+Size: 4651844
+MD5sum: 3e568b2aa558e52c92b66f975ec5323a
+SHA1: 1e909a30417824c49bc7996c5f5c10ae37d285be
+SHA256: 5fc1d39c584846f025b4ceb629ded2fded6ce352af7dd3f6d915a0f6fc6555b9
 Section: Infrastructure
 Description: customization pack for myself for testing and stuff
 Author: joel <joel@idkjoel.co>
@@ -35,11 +35,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Pre-Depends: mobilesubstrate, gsc.armv7
 Depends: firmware (>= 4.3), preferenceloader, com.chpwn.iconsupport (>> 1.7.7)
-Filename: ./debs/com.idkjoel.layouts_1.0_iphoneos-arm.deb
-Size: 66038
-MD5sum: a6bd93b4a9d1d37800f288b2f36c355d
-SHA1: 40b38a70f73563d000b42aeb767ca8ea5f2bc86b
-SHA256: d1d96543347d621d67f90715c90cf8e45498312305b18954ad7f5ab2d1e3af70
+Filename: ./debs//com.idkjoel.layouts_1.0_iphoneos-arm.deb
+Size: 65808
+MD5sum: e45afafbd1e7ba80aad5231cdc3654bc
+SHA1: 2f4ae1330484f4372f7077fa69abdcec9aeb05ef
+SHA256: 8a9e02cd097721db907c5f70fc46c097f91ca189fb73dea18e7588e8a1fa5560
 Section: Tweaks
 Description: Adjustable layouts for Springboard.
 Author: Joel Schellenberger
@@ -48,13 +48,13 @@ Icon: file://Applications/Cydia.app/Sections/icon_packages.png
 Name: Layouts
 
 Package: com.idkjoel.miOS
-Version: 0.6.8
+Version: 0.6.9
 Architecture: iphoneos-arm
-Filename: ./debs/com.idkjoel.mios_0.6.8_iphoneos-arm.deb
-Size: 10236670
-MD5sum: 623952c5e4e150f32b9959d8f10133d9
-SHA1: 572f7ea4cd88acf6f5a0f578145649dc56d9b149
-SHA256: 103988cb70768d7959a5f0d8c4eb7a265ac38b3d4b5aaa301bcbbebae0612ca0
+Filename: ./debs//com.idkjoel.mios_0.6.9_iphoneos-arm.deb
+Size: 10247526
+MD5sum: 80df9f8eec1b4de8bfcf0ae6b16a638f
+SHA1: 8957dbf6544c08becef14c92301a0c1bea0435aa
+SHA256: 42ebdb6329681fbce8cbbd69a8c6ed31b3f736bbe2e895d3cef8d71c8fe15f0d
 Section: Themes
 Description: miOS
 Author: idkjoel <joel@idkjoel.co>
@@ -66,32 +66,15 @@ Package: com.idkjoel.plutOS
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
-Filename: ./debs/com.idkjoel.plutos_1.0_iphoneos-arm.deb
-Size: 3965902
-MD5sum: bb0cc78ebe6f5e04948ec1049b86d8da
-SHA1: 0377a773f70b5cb854868c9056272c38b79b7491
-SHA256: a919974789137a0f94a03fc607b2f9aa23cae609ebf8868ee334c7a033bb6a68
+Filename: ./debs//com.idkjoel.plutos_1.0_iphoneos-arm.deb
+Size: 10383468
+MD5sum: a58a57b2221f563e1877cc8e66b1244d
+SHA1: 4ac9e1475bd10e9787fb23549862e9a89128b31f
+SHA256: 5a1987727b485669b449aa08797c8ded67455f2823b7046fcde84438a2e6fcc1
 Section: Themes
 Description: a simple, flat, and dark theme
 Author: joel <joel@idkjoel.co>
 Depiction: https://idkjoel.github.io/depictions/com.idkjoel.plutOS/splash.html
 Icon: file://Applications/Cydia.app/Sections/icon_packages.png
 Name: plutOS
-
-Package: com.idkjoel.tesOS
-Version: 1.3
-Architecture: iphoneos-arm
-Essential: Yes
-Maintainer: joel <joel@idkjoel.co>
-Filename: ./debs/com.idkjoel.tesos_1.3_iphoneos-arm.deb
-Size: 9780
-MD5sum: 6e5a10ea78d5c95a62a5597a85fd521b
-SHA1: cb615e5946101e0d2ebc9e0912c09d5f09b1be5e
-SHA256: 80af282a033db2186bc03675c598e4a39686e3374d26a62f1509bf23f3c95975
-Section: Infrastructure
-Description: setup for installation of repo
-Author: joel <joel@idkjoel.co>
-Depiction: https://idkjoel.github.io/depictions/com.idkjoel.tesOS/splash.html
-Icon: file://Applications/Cydia.app/Sections/icon_packages.png
-Name: tesOS
 
