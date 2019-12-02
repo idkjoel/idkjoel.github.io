@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.acos_1.1.1_iphoneos-arm.deb
 Size: 1764770
-MD5sum: eaaeee4cea99e09f3c082b5c27005d6b
-SHA1: 5fa9ea8becd8a4b4b4384fa8a18ecd214a098b0f
-SHA256: 4ee4fe094ca48625c1e25d9d9aac36c174dbdac008ddd067ce5794f1b3cac079
+MD5sum: 5dd107b5caccecce18e1fc72d02b949e
+SHA1: d72a5cb7b4e4238847417c68bc54a3fcbf9b8dec
+SHA256: ea7fc45564f7456c402a52e7726d1efe759f754aa8a341ad3946b9b23b84b5ea
 Section: Themes
 Description: Flat, fun theme including icon and UI tweaks.
 Author: joel <joel@idkjoel.co>
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.jos_1.8_iphoneos-arm.deb
 Size: 4606496
-MD5sum: 73b0816e51347525ae2b959c961ac006
-SHA1: de9eed5520554260eb1596f0035679f1076171d3
-SHA256: 95fa33c7674dc2be16bc457ae0a557d49f0d070329c00c21be2e7bdb9ceee45f
+MD5sum: ce36e246d42dfbb3b9b86fbc151d2339
+SHA1: 9e75237f89c4361384a74698558bd329298badb2
+SHA256: db1055eedc53f2e086928dd2e43e81bdf7f780f7b20d6184bff806c13a6de00d
 Section: Infrastructure
 Description: customization pack for myself for testing and stuff
 Author: joel <joel@idkjoel.co>
@@ -37,9 +37,9 @@ Pre-Depends: mobilesubstrate, gsc.armv7
 Depends: firmware (>= 4.3), preferenceloader, com.chpwn.iconsupport (>> 1.7.7)
 Filename: ./debs/com.idkjoel.layouts_1.0_iphoneos-arm.deb
 Size: 66038
-MD5sum: 33236bf5ac37dde0e1ee7493dfab29f4
-SHA1: a89619a5b631b0508c68919b780a9baa25f89082
-SHA256: 3be351c6e9da974f736e5636192a037c0544ddc9d20da4fd58429f2561177965
+MD5sum: bc810133693a10378310aca05bd5d4fb
+SHA1: 655907492c3eb04b4df79a39c895c62f13ed62be
+SHA256: b7d036234f05a9ad6722c9cd418dbb90b5ec16f97e4c5c871a9a2bfb3098ae05
 Section: Tweaks
 Description: Adjustable layouts for Springboard.
 Author: Joel Schellenberger
@@ -48,13 +48,13 @@ Icon: file://Applications/Cydia.app/Sections/icon_packages.png
 Name: Layouts
 
 Package: com.idkjoel.miOS
-Version: 0.6.10-2
+Version: 0.6.10-3
 Architecture: iphoneos-arm
-Filename: ./debs/com.idkjoel.mios_0.6.10-2_iphoneos-arm.deb
-Size: 10302330
-MD5sum: c499c4dce0e8efa8cf4f79938f595ad3
-SHA1: 79753deb5093deb822abe4145b1a7777a6216dab
-SHA256: a7e4fe9605127d09df5e58afb9d2c606ade6df58941f0cd22817db46bb64d149
+Filename: ./debs/com.idkjoel.mios_0.6.10-3_iphoneos-arm.deb
+Size: 10302448
+MD5sum: 35f5eaa3f3f8f597eeaa1bd4db620d77
+SHA1: de1ba8c01120ff132c58b2228fb31d57764e9cca
+SHA256: 7ac37d8a866a8df68dcc3a96075e9c141a09d21ff08a6465d1a5a60e3d9c6c3c
 Section: Themes
 Description: miOS
 Author: idkjoel <joel@idkjoel.co>
@@ -68,9 +68,9 @@ Architecture: iphoneos-arm
 Maintainer: joel <joel@idkjoel.co>
 Filename: ./debs/com.idkjoel.plutos_1.0_iphoneos-arm.deb
 Size: 10174202
-MD5sum: 26120e1b3a1909c46d8bf81ebfcdf528
-SHA1: cb1a4590766c447bb03f51ca56d48473090b4ba3
-SHA256: d0b07ff7e7fcb050637356748e8943a211af1a7018eef7061192dfe9d89af739
+MD5sum: 2a989c501e793860d9f24b23b8dcee82
+SHA1: d7fcb046933e8ad9f46fa4639def3f94b94ace5e
+SHA256: 78b81fec91e54b77aa866712d35888ff040a511b6a5bb5c24c3b97dc64558f66
 Section: Themes
 Description: a simple, flat, and dark theme
 Author: joel <joel@idkjoel.co>
